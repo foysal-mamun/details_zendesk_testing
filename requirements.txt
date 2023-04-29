@@ -1,0 +1,5 @@
+gpt_index
+streamlit
+streamlit_chat
+langchain
+bs4
