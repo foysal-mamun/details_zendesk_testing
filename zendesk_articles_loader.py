@@ -14,7 +14,7 @@ os.environ["OPENAI_API_KEY"] = streamlit.secrets["openai_secret"]
 class ZendeskArticlesLoader:
     def __init__(self):
         # Initialize the class with a Zendesk API token
-        self.zendesk_token = "PFFlXg3GKoHvfWusCmeNV4sLPQMvVzBb3p1U9ndj"
+        self.zendesk_token = streamlit.secrets["zendesk_secret"]
 
     def save_articles_to_txt(self, url):
         """
