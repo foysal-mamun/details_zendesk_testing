@@ -1,0 +1,5 @@
+Details allows you to upload files which can be displayed via the Artist App.
+To display a file in the Artist App, the file needs to be available in one of two places:
+a) ARTIST / related files OR b) Booking / related files
+source: https://details.zendesk.com/hc/en-us/articles/360003542858-For-Agents-Where-to-upload-files-to-the-Artist-App
+article id = 360003542858

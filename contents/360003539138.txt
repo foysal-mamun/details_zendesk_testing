@@ -1,0 +1,3 @@
+On the subtab Statement History you can find all DISTRIBUTION ACCOUNT'S past statements you have imported in ''details'' including the related invoice numbers.
+source: https://details.zendesk.com/hc/en-us/articles/360003539138-Distribution-Account-Statement-History
+article id = 360003539138

@@ -1,0 +1,4 @@
+On Distribution / REPORTS various reports can be compiled and exported.The Release Export is a report containing all RELEASES of one LABELS or all LABELS in a certain period and can be used as release schedule.
+Set the filters you need and export product list on Distribution / REPORTS. Leave filters blank for all.You can download a sample file HERE.You can find more report & export options on Distribution / REPORTS.
+source: https://details.zendesk.com/hc/en-us/articles/360003541478-Reports-Release-Export
+article id = 360003541478

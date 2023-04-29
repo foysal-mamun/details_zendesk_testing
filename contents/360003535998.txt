@@ -1,0 +1,3 @@
+On TRACKS / RELEASE / PRODUCT / LICENCING you can find all * RELEASES * PRODUCTS* LICENCESthat are are related to the track.You can also find a list of MANUAL MATCHES for the track from digital statements.To delete a manual match, click the red x icon right next to the match.At the External IDs box you can add such by clicking the green PLUS and entering the name and related external ID in the free text fields. External IDs can be Apple IDs, Amazon ASINs etc.
+source: https://details.zendesk.com/hc/en-us/articles/360003535998-TRACKS-Release-Product-Licensing
+article id = 360003535998

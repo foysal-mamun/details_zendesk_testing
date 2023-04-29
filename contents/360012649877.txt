@@ -1,0 +1,6 @@
+Stock Accounts in details are your warehouse accounts, from here your stocks are sent to distribution partners.
+To start creating Distribution Orders on details you need to create at least one stock account first. Go to Distribution / Accounts and click the green Plus button to create a new distribution account.
+Add Name, Channel (Digital / Physical), Invoice Project & Currency and click OK. Now the Distribution Account is created and you will be directed to the Overview tab. You can link in Invoice / Delivery Addresses here. Then go to the next tab Setup and select Stock Account here.
+Now you can start adding Distribution Orders.
+source: https://details.zendesk.com/hc/en-us/articles/360012649877-How-To-Create-a-Stock-Account
+article id = 360012649877

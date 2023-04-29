@@ -1,0 +1,14 @@
+Details 2021 Spring Update
+Dear all, we are pleased to announce that our spring update of details is now online! Please find below further information about the update and the new features:
+Booking : Update for Promoter Contacts
+We have released our first new feature in the V2.0 design: hovering the mouse over the Promoter of an event now displays all related contacts with their function and contact. Simple yet convenient!
+Distribution : Order Discounts
+Managing physical orders is getting more and more important. We added new options of order discounts to the distribution section. Read here how to use different order discounts.
+Label : New Interface for Royalty Options
+For royalty accounting, it is essential to set up contracts properly. We have improved the design of the royalty options window, making it easier to manage your contracts. Read here what's new.
+Label : Expiring rates & Mid Price options
+Do you need mid-price options for legacy contracts? Do you want a rate to expire after two years? We have implemented new options for royalty contracts!
+...
+Additionally, we have released multiple fixes. Let us know if you experience any issues!
+source: https://details.zendesk.com/hc/en-us/articles/360019697497-04-2021-details-update
+article id = 360019697497

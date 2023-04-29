@@ -1,0 +1,3 @@
+In General,Google cal has no auto synchronization feature.But you can do it by a little change in iCal link:To auto synchronize your iCal Feed with your Google calendar change the "webcal" part to "https".Example:Link of iCal Feed: "webcal://ical.detailsdetails.eu/artist/..."Link to be Pasted in Google Calendar:"https://ical.detailsdetails.eu/artist/..."This will enable your iCal Feed to auto sync with Google calendar.
+source: https://details.zendesk.com/hc/en-us/articles/360003556698-Synchronizing-your-iCal-Feed-with-your-Google-cal
+article id = 360003556698

@@ -1,0 +1,12 @@
+This article helps you to create, edit and remove your users.
+Details allows you to manage your users independently if you are administrator. To create a new user go to Settings > User Settings and click on the PLUS icon on the top right of the box. A menu will ask you to add a new username, password and email.
+You can change these info anytime later if needed.
+To edit a user go to Settings > User Settings and click on the name of the user you want to edit.
+Here you are able to edit  username, email and language of a user.
+In addition to that a user can be set to be an administrator and get access to accounting information.
+As an admin you can also block a) selected invoice identities or b) selected artists from a user.
+Then users will not be allowed to enter invoices or booking of the selected artists.
+To remove a user click on the delete icon (X) on the right of the selected user.
+Note: If a user has been in use for more than 14 days per month it can only be removed after the next billing.
+source: https://details.zendesk.com/hc/en-us/articles/360003567417-User-Management
+article id = 360003567417

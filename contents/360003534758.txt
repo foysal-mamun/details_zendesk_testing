@@ -1,0 +1,10 @@
+In detəils you can manage multiple companies ("identities") and corresponding invoice layouts ("invoice projects").
+Those companies / identies may be for your own businesses or on behalf of managed artists.
+You can also create different invoice layouts with different logos and styles for different brands of your business, e.g. for your label, your webshop, your artist management, etc.
+You may also manage companies in different countries with different registrations and tax settings.
+In the invoice layouts you can define elements such as header, body, footer, but also format the invoice numbering, tax settings and additional text elements.
+Manage your invoice layouts in SETTINGS / IDENTITIES.
+To add a new company / identity and Invoice Layout, click the PLUS icon.To edit an existing company identity, click on the project name.To remove an existing company identity, click the X icon. If you do this, this template will no longer be available when you create new invoices.
+NOTE: Only admin users have access to this area and must validate their login to access the settings page.
+source: https://details.zendesk.com/hc/en-us/articles/360003534758-Identities-Invoice-Layouts
+article id = 360003534758

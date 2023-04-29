@@ -1,0 +1,7 @@
+This is how the Email Notifications work for Booking Requests:1. The Email Notifications are related to the responsible agent of each one of the artists. That means: Each responsible agent will receive their own email notifications when a ===Booking request for his/her artist=== is submitted to Details.
+2. If the Responsible agent has no email (user with no email), or there is NO responsible agent (no user related to the artist), the email notifications will go to the default email in the client settings (the email given in the registration process).
+3. If you want to change the default contact email address, just contact us and we will change it in our database.
+Also:
+If an artist has 2 agents, both of them will receive the Notifications.
+source: https://details.zendesk.com/hc/en-us/articles/360003571857-Booking-requests-notifications-to-your-email
+article id = 360003571857

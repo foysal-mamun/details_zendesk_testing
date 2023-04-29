@@ -1,0 +1,3 @@
+There are several causes why users are being logged out:- After login if the system is idle or not used for a bit then the session will expire automatically and user needs to log in again.- If same user id and password is used by other user in same time then the first logged in user will be logged out.
+source: https://details.zendesk.com/hc/en-us/articles/360003556718-Why-Users-are-being-Logged-out
+article id = 360003556718

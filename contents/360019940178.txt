@@ -1,0 +1,7 @@
+If you need to import physical sales reporting files from PIAS, we provide a conversion toolkit which allows to deduct PIAS' return handling fee and provides a clean and easy file to import into detəils.
+Open the toolkit and upload the file provided by PIAS. The files usually contain several sheets, please select sheet PHY. The toolkit has an import pre-set, you can simply click IMPORT without matching any field names.
+At last, enter the return handling fee as on the summaries page on your PIAS file and enter a file name for your export file. The export will be saved on your desktop.
+This converted sales import file can now easily be uploaded on Distribution / Import.
+Please contact label_team@berlin3.com if you need more information on this.
+source: https://details.zendesk.com/hc/en-us/articles/360019940178-PIAS-physical-sales-import
+article id = 360019940178

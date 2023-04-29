@@ -1,0 +1,11 @@
+Great news for our BOOKING clients - we have been busy working on our redesign and are excited to release the latest update which includes a lot of fixes for our booking, contact, accounting and settings modules as well as some important design improvements
+The most notable improvement is the introduction of "flexboxes”. This means that now our boxes are exactly as big or small as they need to be. Pages look more organized, be they dynamic or static, which makes them more fun to work with.
+We've also made a lot of tweaks to the overall "look & feel", such as nice rounded corners, different background colors, and increased spacing between sections, etc.
+----------------------------------------------------------------------------------------------------
+We have also fully modernized our questionnaires, which are now available in beta version.
+You can find them below the previous questionnaire under SHARE -> New Questionnaire (beta).
+This design was entirely updated and is of course working fine on mobile phones, too.
+Furthermore, the new Questionnaire can also be displayed in dark mode.
+If you encounter any problems or bugs or have further suggestions, please contact simo@berlin3.com
+source: https://details.zendesk.com/hc/en-us/articles/6476664685457-Redesign-and-Booking-Update-June-2022
+article id = 6476664685457

@@ -1,0 +1,5 @@
+If you need to edit a contract before saving it, here is how to do it:1. You need to click on the blue icon to edit the contract
+2. When the changes are done in the template, then you can save it by clicking on the diskette icon.
+3. You will find your edited & saved template here:
+source: https://details.zendesk.com/hc/en-us/articles/360003571757-How-to-save-a-template-that-has-been-manually-edited
+article id = 360003571757

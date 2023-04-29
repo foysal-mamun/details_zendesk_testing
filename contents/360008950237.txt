@@ -1,0 +1,12 @@
+Update April 2023 : WeConvert will terminate it´s service in May 2023.For follow-up service by details please check this article
+This was the pricing of WeConvert, a service provided by WeConvert UG.
+For it's service, WeConvert charged
+The base percentage of 0,15 % (1,5 per thousand) of the EUR value of the statement *Example: on 1.000 EUR the service fee is 1,50 EUR.
+The maximum fee is 50 EUR **Example: 50 EUR is the service fee on a 33.333,34 EUR royalty statement and all higher amounts.
+The minimum fee is 1 EUR *** ****Example: 1 EUR is the service fee on a 666,67 EUR royalty statement and all smaller amounts.
+Only the first export is chargedi.e. each conversion may be exported as many times as you like
+* for non-euro currencies the EUR value of the statement is calculated using the average exchange rate of the last month of the converted period.Example: the average exchange rate of 03 2020 is used for a Q1 2020 statement
+** statements which are split into several currency statements (e.g. Spotify) count as one and the fee is calculated on the basis of the parent statement and distributed proportionally to the sub-statements Example: a 100,000 EUR Spotify statement devided into EUR, USD, GBP will be accounted at 50 EUR and not 3 times 50 EUR
+*** exceptions apply to iTunes, where the minimum fee is 10 EUR per period (all files of one month) andAmazon, where the minimum fee is 0.50 EUR per statement-file**** Since 1 EUR might be too high for some services, WeConvert offers more reduction on small statements: should the value of a statement be less than 10 times the minimum fee, the fee is 10% of the value of the statementExample: 0,20 EUR is the service fee on a 2 EUR royalty statement
+source: https://details.zendesk.com/hc/en-us/articles/360008950237-WeConvert-Pricing
+article id = 360008950237

@@ -1,0 +1,12 @@
+On LABEL / LABELS you can find a list of all your labels / sublabels and search for a label.
+You can ADD NEW LABEL with a click on the green PLUS icon on top right of the list.
+You can EDIT a LABEL by clicking on the BOLD label name.
+You can DELETE a LABEL by clicking a red x icon in the product list.You can only delete the label if there are no more releases / products linked to the label.
+The subtabs for LABELS are* Overview* Info* Releases / Products* Setup* Metadata
+In the OVERVIEW tab you can fill in important information on the label like the (P) and (C) Lines, label websites, ISRC base of the label and the label code.
+You can add different contacts from your contact database related to the label like graphic designer, A&R, CEO etc with clicking the green PLUS right at the top of the related contact box.You also can enter notes related to the label.
+In the INFO tab you can upload label logos and enter label biographies in two different languages.
+The RELEASES / PRODUCTS tab shows you all releases and products which are set up for the label, if you click on the bold release or product in the first column you will be linked to the RELEASE / PRODUCT.
+In the SETUP tab you can add all physical and digital distribution accounts and set up a general release shifts per account.
+source: https://details.zendesk.com/hc/en-us/articles/360003535378-Label-Labels
+article id = 360003535378

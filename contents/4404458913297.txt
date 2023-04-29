@@ -1,0 +1,11 @@
+Welcome to the How To Get Started with detəils manual!
+The following steps will guide through the initial setup of your label in a new details database!
+Intro // Contacts, Invoices, Settings, Accounts
+Catalogue //
+Sales // Importer Setups, Sales Imports
+Costs // Cost Imports
+Contracts // Royalty Accounts, Contracts, Recoupables
+Royalty Statements //
+You can download this essential step by step guide as PDF that takes you through the initial setup process.
+source: https://details.zendesk.com/hc/en-us/articles/4404458913297-How-to-get-started
+article id = 4404458913297

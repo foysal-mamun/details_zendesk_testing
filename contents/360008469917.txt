@@ -1,0 +1,13 @@
+Details offers a free import of repertoire from a standard XLS file. You can download the import template here.
+The template includes release related, product related & track related data. All bold columns in the sheet are mandatory data we need in order to import your file.
+Please note: If you release your music on multiple formats (CD, LP, Digital etc) you will need to add EACH format variation in the import file (columns barcode, catalog number & format should be different per format).
+Once you have finalized the import file, go to LABEL / PLUGINS and activate the import plugin:
+ADVANCED Repertoire Import - Multi Label
+or
+ADVANCED Repertoire Import - Fix Label
+If you want to import extended files (including prices, custom metadata fields, etc) or multi-label files you will need to activate the advanced import plugins. Please see here for more info.
+To upload your file, click the upload symbol and select your file. Details will show a preview of products to be imported (you can still exclude products here) and a preview of tracks (you can exclude tracks here such as duplicates). Click Process to import your file.
+You can now review your import within details.
+Read here how to manually add releases.
+source: https://details.zendesk.com/hc/en-us/articles/360008469917-How-To-Import-Metadata
+article id = 360008469917

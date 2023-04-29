@@ -1,0 +1,11 @@
+How to start with details - manual
+read previous step here how to Import Repertoire
+If a distribution account sends you sales statements and cost statements, you need to add an import setup for these in order to import them on Distribution / Imports.
+Select the distribution account you want to import sales to on Distribution / Account and go to Current Statements. From here you can set up the import settings.
+To add a new import setup to your account, click the green PLUS icon on top right of the Import Setup box.
+You will need one distribution setup per channel (physical, digital, costs, incomes, thirdparty).
+On the modal enter a description (this may be helpful if your receive different statements such as streaming and download files OR different territories etc) and fill out all mandatory fields.
+Add mandatory fields.
+read next step here - Import Sales
+source: https://details.zendesk.com/hc/en-us/articles/4412735823377-Add-sales-import-setup
+article id = 4412735823377

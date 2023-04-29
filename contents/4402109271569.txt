@@ -1,0 +1,36 @@
+By activating and using the API for the transmission of repertoire data to p.r.o. agency, the user agrees to the declaration below. The activation of the plugin must be carried out by authorised employees.
+Declaration of consent
+I agree that DETAILS c/o Berlin 3 Services GmbH (SENDER) may transmit the following product and personal data electronically to Pro Agency GmbH (RECIPIENT) for the purpose of track-based repertoire registration with international collecting societies:
+Label Name
+ISRCs
+Name of first owner
+Catalogue numbers
+UPC / EAN Codes
+Country of first owners
+Artist Names
+Release Dates
+Type of Recordings (Audio/Video)
+Release Titles
+Term
+Name of Distributors
+Track Titles
+Composers
+Territorial rights
+Track Numbers
+Authors
+Rights Ownership in %
+Track Versions
+Publishers
+Genre Details
+Track runtimes
+Year of recording
+Formats
+Country of recording
+If personal data of third parties (artist, composer, lyricist) are affected by the transmission, I guarantee and warrant that a suitable legal basis exists for me to transmit this third party data to the RECIPIENT via the SENDER.
+If consultation between the SENDER and the RECIPIENT is necessary for further processing of the data, I agree to obtain information.
+I am aware that I can revoke this consent at any time without giving reasons for the future by informing Berlin 3 Services GmbH, Pücklerstrasse 17, 10997 Berlin or by e-mail contact@berlin3.com of my revocation against the processing of my data.
+Berlin 3 Services GmbH would like to point out that you have the right to information, correction, deletion, restriction of processing, data portability (Art. 15-21 DS-GVO), as well as the right to complain to a supervisory authority (Art. 77 DS-GVO).
+The data protection officer of Berlin 3 Services GmbH can be reached at contact@detailsdetails.eu.
+Further information on data protection can be found athttps://www.detailsdetails.eu/datenschutz
+source: https://details.zendesk.com/hc/en-us/articles/4402109271569--Declaration-of-consent-for-the-transfer-of-product-and-personal-data-
+article id = 4402109271569

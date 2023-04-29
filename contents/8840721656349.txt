@@ -1,0 +1,4 @@
+In Excel, in order to properly format barcodes, a useful tip is to adjust EXCEL / FORMAT to the Custom format with 13x "0" for the barcode column.
+This allows you to add the leading 0s in case of loss.
+source: https://details.zendesk.com/hc/en-us/articles/8840721656349-The-correct-display-of-barcodes-in-Excel
+article id = 8840721656349

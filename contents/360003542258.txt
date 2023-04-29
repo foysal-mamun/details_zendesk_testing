@@ -1,0 +1,4 @@
+On Distribution / REPORTS various reports can be compiled and exported.
+The Open Orders Report exports a list of all open orders like DISTRIBUTION ORDERS, BACKORDERS or MANUFACTURING ORDERS and can be optionally filtered by DISTRIBUTION ACCOUNT, LABEL and / or start date.To export go to Distribution / REPORTS and click the OPEN ORDERS REPORT button.You can now customize the report by selecting an ACCOUNT and LABEL. If you leave filters blank, all ACCOUNTS and LABELS will be included in the report. ::::You can download a sample file HERE.You can find more report & export options on Distribution / REPORTS.
+source: https://details.zendesk.com/hc/en-us/articles/360003542258-Reports-Open-Order-Report
+article id = 360003542258

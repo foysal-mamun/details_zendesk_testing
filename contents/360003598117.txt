@@ -1,0 +1,4 @@
+To reset your password, please follow the following steps:Step 1:Click on the "Password Reset" button in the login screen.Step 2:In the text-box enter your User Name (login name) which you use to access the system and then click on the Password Reset button.A new password will be sent to your email.
+You can now login using the new password.
+source: https://details.zendesk.com/hc/en-us/articles/360003598117-How-to-reset-your-password
+article id = 360003598117

@@ -1,0 +1,12 @@
+If you cannot log In to your Details account, please check these possible situations:
+1)Check:
+* that you are trying to Log In through the correct link: http://www.detailsdetails.eu/youraccountsname/index.pl (if the links redirects to other link such us: /LOGIN, you need to copy-paste it again in the browser)
+* your password is not longer that 32 characters and has no special characters ( *, Â¨)
+* using FIREFOX last version
+* not using a mobile device to connect to the internet, but a proper DSL wifi 2) clean the cache and reload details with SHIFT + APPLE + R 3)
+If you still can't access your account, then you may need to check these last 3 options:
+a) it could be some cookie blocking: check cookies in Firefox / Preferences / PRIVACY tab
+b) allow pop ups for our website: check Firefox preferences - content
+c) it could also a Firefox plugin / extension / add-ons causing the problem. To access the Extensions press: SHIFT + APPLE + A and deactivate all extensions, or go to: Firefox - Tools.
+source: https://details.zendesk.com/hc/en-us/articles/360003570997-Problems-to-Log-In
+article id = 360003570997

@@ -1,0 +1,29 @@
+Activating the p.r.o. agency API  to transfer your metadata requires only a few steps.
+(I) Get Credentials
+Before running these steps described below please make sure that p.r.o. agency gave you all necessary credentials:
+• your p.r.o. agency account name
+• your token (API key)
+• also please ask them to activate your label(s) on their side for the data transfer
+Once you have the token and confirmation from p.r.o. agency you're ready to start!
+(II) Activate Plugin
+In detəils go to LABEL / PLUGINS / COLLECTING SOCIETIES and activate "Pro Agency - Send Catalogue to Pro Agency via API".
+You will see the activated plugin on the left side from now on.
+Go to the left side and click on RUN for the recently activated PLUGIN for initialisation.
+For the next steps you will need the account name and token that you have been provided with:
+Go to SETTINGS / LABEL / ADDITIONAL INFO / API CONFIGS and click the [+] icon
+A drop-down window will pop up where you can select 'pro agency'.
+You will now be able to enter your account name and token.
+Don't forget to click SAVE after you have finished
+(III) Set Label defaults
+In order to meet the metadata requirements for p.r.o. agency you will now need to set some default metadata settings for each of your labels.
+For this, please go to LABEL / LABELS and select a label.Go to subtab METADATA and fill in all default fields indicated in the screenshot below:
+(the default GenreCode will always be 'POPULAR', for active always type 'y')
+Repeat this step for each selected label if you manage multiple labels or sub-labels.
+(III) Set Format defaults
+The last step will be to configure accepted formats.
+p.r.o. agency only accepts 3 formats (CD, LP, MP3), and you will need to tell detəils what's what.
+For this, please go to SETTINGS / LABEL / LABEL SETTINGS and click on each format. A window will pop up. Please select the p.r.o. agency reference format from the drop-down list for each of the formats.
+You're all set now and ready to send your metadata from detəils to p.r.o. agency!
+Read more on this cooperation and how to send your catalog here.
+source: https://details.zendesk.com/hc/en-us/articles/360019847877-How-to-get-p-r-o-agency-catalogue-API-activated
+article id = 360019847877

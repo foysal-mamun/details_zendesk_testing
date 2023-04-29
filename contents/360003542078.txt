@@ -1,0 +1,3 @@
+In details you can adjust your own custom tax types and rates.You can add, edit and remove your own custom tax types in SETTINGS / ACCOUNTING / "Tax Types". Tax Types can be both positive taxes (i.e. VAT on top) or negative taxes (i.e. tax deductions).NOTE: Please make sure that your tax deductions carry a leading minus (-) in the tax rate. The ''VAT type'' selection is only relevant for countries who have full and reduced tax rates.''''details'''' provides the following VAT typesVAT1 = full VAT rateVAT2 = reduced VAT rateno VAT = no VATThe VAT types are included in invoicing logic throughout the service.
+source: https://details.zendesk.com/hc/en-us/articles/360003542078-Setting-Tax-Types
+article id = 360003542078

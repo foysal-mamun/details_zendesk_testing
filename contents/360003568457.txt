@@ -1,0 +1,3 @@
+You can categorise your CONTACTS by groups which can be set up and edited on Contacts / Groups.You can watch a tutorial on how to manage groups HEREExample contact groups can be: artists, DJs, promoters, labels, record shops, digital shops, venues etc.To add a new contact group, go to Contact / Groups and click [+]  on top right of the list.You will be directed to the contact group page where you can add contacts to the group by clicking [+] on top right and selecting contacts.You can also add contacts to a group on the Overview tab of each CONTACT.
+source: https://details.zendesk.com/hc/en-us/articles/360003568457-Contacts-Groups
+article id = 360003568457

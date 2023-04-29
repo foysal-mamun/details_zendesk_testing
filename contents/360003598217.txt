@@ -1,0 +1,3 @@
+If in your royalty contract it is agreed that the label receives a fix amount per record you can do like that:- Set up one contract "royalty" where royalty account receives 100% on income on physical.Add one option entering 100% on income - Next set up a second contract "fix price". Add one physical option entering 100% on fix, and add the fix PPU agreed on as negative number, i.e. -1.00 if you agreed on 1 € per copy.The Royalty account will receive all physical income but with a fix deduction per unit that will remain with label.
+source: https://details.zendesk.com/hc/en-us/articles/360003598217-How-to-create-a-royalty-contract-label-receiving-a-fix-price-per-sold-copy
+article id = 360003598217

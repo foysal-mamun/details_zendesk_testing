@@ -1,0 +1,5 @@
+A royalty project is an Invoice Layout used for your royalty statements.It defines the layout of the royalty statement. Also, you can customize your .shares (royalty b2b) email templates & standard royalty emails.
+You can create & edit your royalty projects on Settings > Identities.
+Click HERE to find out how to set up or edit an invoice layout.
+source: https://details.zendesk.com/hc/en-us/articles/5922376461969-What-is-a-ROYALTY-PROJECT-
+article id = 5922376461969

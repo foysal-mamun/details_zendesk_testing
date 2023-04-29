@@ -1,0 +1,5 @@
+detǝils now offers the possibility to mark an invoice as a CORRECTED Invoice.  Marking the checkbox "Correction" in an invoice leads to placing "Invoice correction" before the invoice number.
+Don't confuse this with the CANCEL function which cancels an invoice (german: STORNO), which means the invoice will be invalid but (the number) remains in your books.
+This feature is both available in Version 1 and in Version 2.0:
+source: https://details.zendesk.com/hc/en-us/articles/4403233960081-Invoice-Correction
+article id = 4403233960081

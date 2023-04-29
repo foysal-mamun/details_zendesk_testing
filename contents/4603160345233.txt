@@ -1,0 +1,8 @@
+Details offers the feature to set up contract templates, especially for complex contracts this will be time saving.
+Go to LABEL / ROYALTY and set up a royalty account Contract Templates, open subtab Contracts and click the green PLUS icon to add a new contract.
+Enter your royalty rates, recoupable settings, etc.
+To make the contract available as template, go to the subtab SPECIALS to check off the Template checkbox and add your template name.
+All your template contracts will be available in the New Contract modal.
+Read here how to copy an existing contract.
+source: https://details.zendesk.com/hc/en-us/articles/4603160345233-Contract-Templates
+article id = 4603160345233

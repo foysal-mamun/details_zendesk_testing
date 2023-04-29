@@ -1,0 +1,10 @@
+Details can help setting up contracts with the copy contract function.
+You can select a contract and then copy it including repertoire, share, royalty, licensing, and recoupable rates.
+Go to the royalty account you want to add a contract to, select the subtab CONTRACTS and
+click the green plus to set up a new contract.
+In the contract modal click COPY CONTRACT.
+Select the ROYALTY ACCOUNT and the CONTRACT you want to copy into your new contract and click OK.
+The new contract will open so that you can make additional changes if needed.
+Read here how to create contract templates.
+source: https://details.zendesk.com/hc/en-us/articles/4419286151441-How-to-copy-contracts
+article id = 4419286151441

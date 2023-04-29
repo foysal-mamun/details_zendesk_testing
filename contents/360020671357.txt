@@ -1,0 +1,138 @@
+If you want to automatically transfer your repertoire via our API, you must maintain a certain level of metadata integrity, otherwise your catalogue cannot be delivered first to p.r.o. agency and later to the collecting societies worldwide.
+The entire revenue channel depends critically on you providing metadata accurately and fully.If you provide clean data, the whole process from details to the p.r.o. agency to the collecting societies and to hundreds of revenue-generating outlets will have a chance to be largely automated.But the whole process really relies on your catalogue management.The following fields are mandatory for the process, i.e. if those are not available in details tracks will not be able to be delivered to p.r.o. agency through the API.
+Field
+Description
+Example
+Format
+Label Name
+marketing label name
+XXX Records
+Text
+Release Artist
+name of the release artist
+Various Artists
+Text
+Track Artist
+artist name of the individual track
+Artist XXX
+Text
+Release Title
+title of the album, single or EP
+XXX Album
+Text
+Track Title
+title of the track
+XXX Track
+Text
+Track Duration
+track duration
+00:03:30
+HH:MM:SS
+Format
+type of carrier
+CD, LP, MP3
+Text
+ISRC
+International Standard Recording Code
+DEXXXXXXXXXX
+Text
+UPC / EAN
+Please provide only one code per track.
+4024572687960
+Text
+Release Date
+release date of the track
+18.06.2007
+DD.MM.YYYY
+Composer
+name of the composer (first and last name)
+Christian XXX, Christian YYYY
+Text
+Author
+name of the author (first and last name)
+Christian XXX, Christian YYYY
+Text
+Year of Recording
+the year in which the recording took place
+2007
+YYYY
+Country Code of the Recording
+country in which the recording took place.Please use the ISO 3166 Code Alpha 2
+DE
+Text
+Name of 1st Owner
+name of the original rights owner
+YYY Records
+Text
+Country Code Of The 1st Owner
+country code of the original rights owner. Please use the ISO 3166 Code Alpha 2
+US
+Text
+Type of Content
+audio or video
+Audio
+Text
+Territory of Rights
+territory/territories of rights ownership           Please use the ISO 3166 Code Alpha 2
+WW, -AU, -US
+Text
+Percentage of Rights
+The percentage of rights that you own of a  certain recording
+100%
+Text
+Genre Code
+Please choose only POPULAR or CLASSICAL.
+CLASSICAL
+Text
+The following additional information is optional; to add multiple entries please separate by comma.
+Field
+Description
+Example
+Format
+Catalogue Number
+internal number of each release on the label release
+XXX001
+Number
+Additional Track Contributors- Artist
+additonal artists to the TrackArtist
+Artist YXX
+Text
+Additional Track Contributors- Featuring
+additonal artists to the TrackArtist
+Artist YYX
+Text
+Additional Track Contributors- With
+additonal artists to the TrackArtist
+Artist YYY
+Text
+Additional Track Contributors- Accompanist
+additonal artists to the TrackArtist
+Artist ZZZ
+Text
+Track Number
+track position on the sound carrier
+3
+Number
+Track Version
+version of the track (remix, original, cover)
+Radio Edit
+Text
+Start Date
+start date of rights ownership (usually January 1st of the year of recording)
+01.01.2007
+DD.MM.YYYY
+End Date
+end date of rights ownership
+31.12.2056
+DD.MM.YYYY
+Publisher
+Name of Publishing Company
+XY Publishing
+Text
+Name of the Distributor
+name of your main distributor
+XXX Distribution
+Text
+Please find full metadata requirements below. If you have questions, please directly contact  contact@pro-agency.net
+source: https://details.zendesk.com/hc/en-us/articles/360020671357--List-of-p-r-o-agency-metadata-requirements
+article id = 360020671357

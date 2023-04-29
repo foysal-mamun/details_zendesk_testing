@@ -1,0 +1,4 @@
+Details allows you to upload cost proofs to RELEASES - Costs and PRODUCTS - Costs.Those proofs may be for internal documentation only or may be made available in the Royalty Statements.To do this, proceed with the following simple steps:On each COSTS tab you will find a cloud icon. By clicking the cloud you can upload any document or scan.
+If you wish to share the uploaded cost proofs with your royalty partners, go to the selected Royalty Account / Setup tab and activate the "display cost URL" checkbox as on the screen below.
+source: https://details.zendesk.com/hc/en-us/articles/360003596797-How-to-add-Cost-Proofs-to-Costs
+article id = 360003596797

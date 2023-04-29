@@ -1,0 +1,32 @@
+Durch  Aktivierung und Nutzung der API zur Übertragung von Repertoiredaten an p.r.o. agency willigt der Nutzer in untenstehende  Erklärung ein. Die Aktivierung des plugins muss durch befugte Mitarbeiter erfolgen.EinwilligungserklärungIch willige ein, dass DETAILS c/o Berlin 3 Services GmbH (SENDER) folgende produkt- und personenbezogenen Daten elektronisch zum Zwecke der trackbasierten Repertoire-Anmeldung bei internationalen Verwertungsgesellschaften an die Pro Agency GmbH (EMPFÄNGER) übermitteln darf:
+Label Namen
+ISRC’s
+Name der Erstinhaber
+Katalog Nummern
+UPC / EAN Codes
+Land der Erstinhaber
+Artist Namen
+Veröffentlichungsdaten
+Art der Aufnahmen (Audio/Video)
+Release Titel
+Zeiträume Rechteeinräumung
+Name der Vertriebe
+Track Titel
+Komponisten
+Territoriale Rechte
+Track Nummern
+Autoren
+Rechteinhaberschaften in %
+Track Versionen
+Verlage
+Genre Angaben
+Track Laufzeiten
+Jahr der Aufnahmen
+Formate
+Land der Aufnahmen
+Sofern personenbezogene Daten von Dritten (Artist, Komponist, Textdichter) von der Übermittlung betroffen sind, garantiere und gewährleiste ich, dass eine taugliche Rechtsgrundlage vorliegt, damit ich diese Daten Dritter über den SENDER an den EMPFÄNGER übermitteln darf.
+Sofern eine Rücksprache zwischen SENDER und EMPFÄNGER zur weiteren Verarbeitung der Daten nötig ist, bin ich mit der Einholung von Auskünften einverstanden.
+Mir ist bewusst, dass ich diese Einwilligung jederzeit ohne Angabe von Gründen für die Zukunft widerrufen kann, indem ich der Berlin 3 Services GmbH, Pücklerstrasse 17, 10997 Berlin oder per E-Mail contact@berlin3.com meinen Widerruf gegen die Verarbeitung meiner Daten mitteile.
+Die Berlin 3 Services GmbH weist Sie darauf hin, dass Sie ein Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit haben (Art. 15-21 DS-GVO), sowie auf Beschwerde bei einer Aufsichtsbehörde (Art. 77 DS-GVO). Der Datenschutzbeauftragte der Berlin 3 Services GmbH ist erreichbar unter contact@detailsdetails.euWeitere Informationen zum Datenschutz sind zu finden unterhttps://www.detailsdetails.eu/datenschutz
+source: https://details.zendesk.com/hc/en-us/articles/360021113638-Einwilligungserkla-rung-zur-%C3%9Cbermittlung-produkt-und-personenbezogener-Daten
+article id = 360021113638

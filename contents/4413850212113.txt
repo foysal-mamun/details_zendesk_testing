@@ -1,0 +1,8 @@
+The internet is a wild wild place.
+For this reason, we use the certified service provider ADYEN to process secure monthly direct debits.Your SEPA mandates and credit card information are securely stored with them.
+We @ details have no access to your credit card information. And we do not want to!Please do not send us any credit card information via email!
+In order to update the payment information for a new bank account or a new card, a secure transmission to ADYEN must take place.
+Users will find a button for this in the SETTINGS / BILLING section at the bottom right. This will redirect you to our paywall, where you can choose between a new SEPA mandate or a new card.
+ADYEN requires a minimum debit of 1 EUR for this, which we forward  one-to-one to the customer
+source: https://details.zendesk.com/hc/en-us/articles/4413850212113-How-to-update-your-billing-information
+article id = 4413850212113

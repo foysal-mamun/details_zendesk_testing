@@ -1,0 +1,5 @@
+If you see that some LOCAL DETAILS (Pick Up Driver, Restaurant, Nightmanager..etc) are not shown in the ARTIST App, please check that the LOCAL DETAILS in your booking are related to the ARTIST with a marked check-box (see screenshot)
+If the Travel Party is empty and you can not see any Related Contacts, please make sure you have a Traveling Contact set in your artist. You can find more informations here: How to set up artists
+If you just related a travel contact in the artist but it is not shown, you want to click "Get Contacts Via Artists". That way details will update the related contacts of an artist in a show:
+source: https://details.zendesk.com/hc/en-us/articles/360003567637-FAQ-Local-Details-are-not-shown-in-the-Artist-App-or-Itinerary
+article id = 360003567637

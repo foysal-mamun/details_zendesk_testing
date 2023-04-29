@@ -1,0 +1,9 @@
+Any user may customize the client´s booking settings in SETTINGS / BOOKING / BOOKING SETTINGS.You might ADD, EDIT or REMOVE any booking setting: * to ADD a new status click the +Add Booking Status on the bottom of the display box.* to EDIT an existing status click on the status name.* to REMOVE an existing status click on the X icon on the right of the status.
+A booking status can have different behaviors in details:
+* Confirmed and not private: Display in RSS
+* Confirmed and private: No display in RSS
+* Default for Requests: Default status for incoming booking requests
+* Do not show in free dates: If this checkbox is checked, the date will not be shown in the "Free Dates" Feature from the calendar.
+*A status can be clicked as a confirmed date.Confirmed dates will:a) not be displayed in the available artist message b) will BE published to the RSS feeds (to your websites and Facebook accounts) and c) will BE published to the Artist App.Note: To be published in the RSS feeds, a booking status must be set as "confirmed", but NOT as "private". Any status clicked as private, will NOT be published to the RSS feeds.
+source: https://details.zendesk.com/hc/en-us/articles/360003530238-Managing-Booking-Statuses
+article id = 360003530238

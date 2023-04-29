@@ -1,0 +1,5 @@
+To import your contacts from a xls, xlsx file, you need to 1) Download our file import template on CONTACTS / IMPORT or here (see screenshot)2) enter or copy in your existing contacts to our template and make sure you use the right columns.Most important columns obviously are the names, either the company name OR first name and last name of a person. A contact without a name doesn't make sense and will be difficult to handle in details.Make sure you enter all other relevant information like address, city, country, phone numbers and email addresses. The more info you enter, the easier it will be for details to help you safe precious time ...
+Please note, you can now automatically create royalty accounts, distribution accounts and supplier accounts on import. Just add x in the related column (columns T, U, V) on your contact import sheet!3) safe the file as xls or xlsx 4) upload the file into details by selecting the correct file in the upload menuIf there's any problem, please let us help you!V1
+V2
+source: https://details.zendesk.com/hc/en-us/articles/360003534618-Import-Contacts-from-xls-xlsx-file
+article id = 360003534618

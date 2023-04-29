@@ -1,0 +1,7 @@
+1) Wordandsound delivers two statement files. One sales file and one file with the country info.
+2) Open the Mercat Country toolkit and choose Wordansound from the default settings and add the distribution fee Wordandsound is deducting from your income.
+3) Click the button and enter the preferred file name.
+4) Choose the sales statement file and click OK to IMPORT. Now a summary appears. Go ahead by clicking OK again.
+After you do the same (choose file, import, click ok) with the country report, toolkit generates sales and country info in one xlsx file that will be saved to your desktop. Now you can easily import into Details.
+source: https://details.zendesk.com/hc/en-us/articles/4415500161041-How-to-import-Wordandsound-files-with-the-toolkit
+article id = 4415500161041

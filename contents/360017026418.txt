@@ -1,0 +1,19 @@
+We are pleased to provide direct ingestion of cataloque from our valued partner IDOL.
+This article consists of two parts:
+Instructions on how to retrieve your directory on IDOL after setting up the API
+Instructions on how to set up the API integration
+(1) Instructions on how to retrieve your directory on IDOL after setting up the API
+Once the Integration has been set up, to load your cataloque from IDOL,
+go to LABEL / PLUGINS to your Active Plugins in the API section to the plugin
+Auto-Ingest new products from idol.io.
+Click "Run" to start cataloque recovery, which may take a few minutes to load the data.
+(2) Instructions on how to set up the API integration
+To automatically insert your IDOL catalogue, you must first create an user for detəils in the idol.io labelcamp.
+Only administrators can create users, so contact the administrator of your label for the IDOL labelcamp. The administrator needs to create a user "details", but should not give any role to the user in question (neither catalogue management, nor analytics, nor accounting).
+Then go to detəils and put the user name and password in SETTINGS / LABEL / Additional Info API Configs as displayed below:
+In addition you need to activate the plugin "Auto-Ingest new products from idol.io“ in LABEL / PLUGINS / API
+Once the Plugin is activated, OnClick on the button „Run", it will ingest new products and tracks directly from your idol.io account.
+Note :
+The API will identify all already existing products by "upc-code" (barcode) and skip them.Existing tracks will alsobe skipped when identified by artist, tittle and IRSC.
+source: https://details.zendesk.com/hc/en-us/articles/360017026418-Importing-catalogue-from-IDOL-to-det%C9%99ils
+article id = 360017026418

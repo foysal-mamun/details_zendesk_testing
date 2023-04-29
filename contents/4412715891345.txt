@@ -1,0 +1,12 @@
+How to start with details - manual
+To import your contacts from a XLSX file, you need to
+1) go to CONTACTS / IMPORT tab
+2) download our XLSX file sample (see screenshot)
+3) enter or copy your existing contacts to the XLSX template and make sure you use the right columns.
+Start with the names, either the company name OR first name and last name of a person. The more info you enter, the easier it will be for detəils to help you save time.
+4) Upload the file into detəils by selecting the file in the upload menu
+If there's any problem, please let us help you!
+5) Please note, duplicate contacts can be merged after the import.
+read next step here - how to set up the invoice layouts
+source: https://details.zendesk.com/hc/en-us/articles/4412715891345-Import-contacts-from-a-XLSX-file
+article id = 4412715891345

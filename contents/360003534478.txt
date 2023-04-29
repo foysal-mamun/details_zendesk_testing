@@ -1,0 +1,6 @@
+If you are experiencing problems with your Details account, like calendars not downloading or the computer stuck in old patterns, you might need to refresh your cache memory.
+Here is how to do it If you have a MAC:
+1. Go to Firefox -> Preferences
+2. Then: Advanced -> Network  If you want more info about the cache, please read this article.
+source: https://details.zendesk.com/hc/en-us/articles/360003534478-How-to-refresh-the-cache-memory
+article id = 360003534478

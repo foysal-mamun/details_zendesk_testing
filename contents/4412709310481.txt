@@ -1,0 +1,9 @@
+How to start with details - manual
+read previous step here - how to set up Invoice Layouts
+Distribution accounts can be overall distributors that take care of the physical and / or digital distribution of your catalog such as Wordandsound, Rough Trade, Idol etc.
+Distribution accounts can also be shops selling your repertoire physically and / or digitally.
+Maybe you have direct deals with shops such as Phonica, iTunes, Spotify etc.
+To set up a new distribution account, just click the green PLUS icon on top right of the list.Enter the name and short name if given, choose the sales channel physical, digital or both, select the invoice project and currencies for future accounting. Click OK to confirm. You can edit an existing distribution account by clicking on the BOLD name on the first column.
+read next step here - how to Import Repertoire
+source: https://details.zendesk.com/hc/en-us/articles/4412709310481-Add-Distribution-Accounts
+article id = 4412709310481

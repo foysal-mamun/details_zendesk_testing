@@ -1,0 +1,11 @@
+If you want to account physical sales to your royalty accounts, you will need to add one or multiple rules for physical royalty rates. Click the [+] icon on the contract's Royalty Rate tab.
+You will see a modal window with multiple options to set your royalty rate etc. for physical sales:
+First, please give your calculation rule an option name. It helps both you and the artist if you have multiple royalty rules.
+Then, of course, the most important information is the royalty rate on the top left of the modal window. This is the multiplier that is negotiated in contracts with rights holders. NOTE that the rate you enter here is the rate that your Royalty Account is supposed to receive as per contract (not your own share!).
+Another important factor for the royalty calculation is the accounting base. This can be either the income, the retail price, thePublished Price of the Distributor (PPD) or any of the other options in details.
+There are also options to add deductions to the royalty rate on the fields Deduction 1, Deduction 2, Deduction 3 and Adjustments. When a deduction/adjustment is applied, you will see whether it is added to or subtracted from the royalty rate, depending on the sign of the deduction/adjustment.NOTE : While the deductions are displayed to the royalty owner in his statement, an adjustment remains undisclosed. An adjustment is therefore a percentage based reduction of the royalty calculation without any indication in the statement.
+Return handling fees are a more traditional deduction from royalties. Those are fixed amounts  deducted per unit returned, i.e. 0.50 € per unit.
+On the right-hand side of the modal window, you can define the conditions for which the current calculation rule will apply. Find out more about the available conditions here!Think of the conditions as a filter that triggers the application of the current rule.
+IMPORTANT NOTE : If you have more than one royalty option in one contract, please be aware that the calculation in detəils starts with the first rule and then continues with 2,3, etc. until the last one - the general royalty rule, which catches all sales that do not fall into any of the previous options.
+source: https://details.zendesk.com/hc/en-us/articles/360019763738-How-to-set-royalty-options-for-physical-sales
+article id = 360019763738

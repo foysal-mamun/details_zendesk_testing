@@ -1,0 +1,11 @@
+Firefox verwaltet Benutzernamen und Passwörter für den Zugriff auf Anwendungen, z.B. details in deren FIREFOX / EINSTELLUNGEN / Datenschutz- und Sicherheitseinstellungen.
+Hier erfahren Sie HIER mehr über die Firefox-Datenschutzeinstellungen.
+Wenn Sie sich in der Vergangenheit mit einem bestimmten Benutzernamen und/oder Passwort angemeldet haben, versucht Firefox, sich erneut mit den gleichen Zugangsdaten anzumelden, was im täglichen Leben recht nützlich ist.
+Wenn sich Ihr Benutzername oder Ihre Passwörter allerdings in der Zwischenzeit geändert haben, führt dies zu einem erfolglosen Versuch, sich in die details einzuloggen.
+Sie müssen dann Ihren Benutzernamen oder Ihre Passwörter in Firefox anpassen.
+Gehen Sie dazu in FIREFOX / EINSTELLUNGEN, wählen Sie Datenschutz & Sicherheit und gehen Sie zu Ihren gespeicherten Zugangsdaten.
+Wählen Sie Ihr vorheriges Login für www.detailsdetails.eu und aktualisieren Sie Ihren Benutzernamen oder Ihr Passwort.
+Schließen Sie nun Firefox und starten Sie den Browser neu.
+Wenn Sie sich in die Details einloggen, wird Firefox nun mit Ihrem aktualisierten Benutzernamen und Passwort arbeiten.
+source: https://details.zendesk.com/hc/en-us/articles/360005473957-Wie-man-zuvor-gespeicherte-Logins-in-Firefox-anpasst
+article id = 360005473957

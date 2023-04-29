@@ -1,0 +1,19 @@
+How to start with details - manual
+read previous step here - how to add Distribution Accounts
+detəils offers a free import of repertoire from a standard XLS file.
+You can download the import template here.
+The template includes release related, product related & track related data. All bold columns in the sheet are mandatory data we need in order to import your file.
+Please note: If you release your music on multiple formats (CD, LP, Digital etc) you will need to add EACH format variation in the import file (columns barcode, catalog number & format should be different per format).
+How to import your repertoire
+Tutorial Video
+https://vimeo.com/191762582
+Import Repertoire
+Once you have finalized the import file, go to Labels / Plugins and activate the import plugin:
+1 NEW FREE - Basic Repertoire Import
+If you want to import extended files (including prices, custom metadata fields, etc) or multi-label files you will need to activate the advanced import plugins. Please see here for more info.
+To upload your final metadata import sheet, click the upload symbol and select your file. Detəils will show a preview of products to be imported and a preview of tracks. Click Process to import your file.
+You can now review your import within detəils.
+If you like to add add your releases manually check How to add a new release.
+read next step here - how to add Sales Import Setup
+source: https://details.zendesk.com/hc/en-us/articles/4412730601361-Import-Repertoire
+article id = 4412730601361

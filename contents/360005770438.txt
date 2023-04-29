@@ -1,0 +1,6 @@
+When accounting your recoupables, please note the recoupable dates are set by the following rules:
+If the artist has no royalty statement yet, the release date of the artist's record will be used as the recoupable date so that recoupables will be included on the first statement.
+If the royalty period is not accounted for the cost date yet, recoupable date will equal cost date.
+If the royalty period is accounted for the cost date already, the recoupable date will be the last day of the current royalty statement period plus one day.
+source: https://details.zendesk.com/hc/en-us/articles/360005770438-Accounting-Recoupables-Recoupable-date
+article id = 360005770438

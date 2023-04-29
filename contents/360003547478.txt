@@ -1,0 +1,9 @@
+The Artists sub-heading of the Label section allows you to manage all the activity of your artists on your labels.
+You can ADD a NEW ARTIST by clicking on the green "+" icon at the top right of the list.
+Manage existing artist accounts/identities by clicking on the bold artist name.
+You can EDIT an ARTIST by clicking on the name in BOLD.
+You can DELETE an ARTIST by clicking on the red X icon in the artist list.
+NOTE: The artists displayed in this section do NOT automatically correspond to those identified as Artists linked to your RELEASES, PRODUCTS or TITLES (these items may include artists outside your labels).
+On the other hand, when it comes to compilations, it is obvious that your artists will NOT always be identical to those of your RELEASES and TITLES.
+source: https://details.zendesk.com/hc/en-us/articles/360003547478-Label-Add-Delete-Edit-Artists
+article id = 360003547478

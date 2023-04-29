@@ -1,0 +1,13 @@
+Overview of the BOOKING Tab - TEMPLATES
+You can find an INTRODUCTION in how we use templates to create documents in details can be read here.
+If you would like to edit your BOOKING TEMPLATES yourself, HERE is how!
+Step by Step Guide to variables in a standard Booking Contract
+Step by Step Guide to variables in a standard Booking Itinerary
+Here is an article about DATE formats in templates
+Printer Settings / How to safe templates as pdf
+How to save a template that has been manually edited
+Code for clickable EMAIL, PHONE and URLs in templates
+List of Template Tags
+More tips for Html templates
+source: https://details.zendesk.com/hc/en-us/articles/360003569057-Booking-Templates
+article id = 360003569057

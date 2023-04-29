@@ -1,0 +1,19 @@
+details now has a feature to deactivate royalty contracts.This can be useful if your contract has ended or has been amended and you no longer wish to include that contract in the royalty statements.
+The deactivation of a contract results in a contract being archived, but not deleted!
+A deactivated contract stops processing any income or recoupables and will not be displayed in royalty statements. In most cases, especially if there is a contract history, this is a much better option than removing contracts, which results in previous reporting periods being deleted from your database.
+A deactivated contract will no longer
+- not process any new royalties for sales, returns or licences
+- not recoup any new advances, other incomes or costs
+- not load any new repertoire via the autofetch function
+A deactivated contract will however still
+- forward previous closing balance of the previous period
+- account contract balances if added manually
+- account previously imported recoupables
+- credit previous return reserves when due
+NOTE : If previous balances, return reserve credits or closing balances are still existing, the deactivated contract will still be visible on the statement.
+To deactivate a contract, you need a contract status set to inactive.
+Go to SETTINGS / LABEL / ADDITIONAL INFO, add or edit a new status on the Label Status box and set section = Royalty Contract. For contract deactivation status check the [x] inactive checkbox!Note : The deactivating contract function will only apply if also the inactive flag is selected!
+Now, go to LABEL / ROYLATY / CONTRACTS, select a contract you want to deactivate and choose the inactive status from the dropdown menu.
+Please note, the deactivation will start as you select an inactive status. The contract start date and end date do not affect the deactivation!
+source: https://details.zendesk.com/hc/en-us/articles/9809964180765-Deactivate-Contracts
+article id = 9809964180765

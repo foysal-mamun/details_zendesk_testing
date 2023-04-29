@@ -1,0 +1,23 @@
+This article will show you how to send your metadata from detəils to p.r.o. agency via API.
+The goal is to send your metadata automatically without additional manual intervention. Obviously, the condition is tidy metadata :-)
+In case you haven't yet activated the API and made the necessary settings yet, please read here for instructions
+1) Go to LABEL / RELEASES. Once the API is activated, you will see the button p.r.o. agency at the bottom right of the screen. Note : In case it's not there yet, you need to activate the plugin and/or refresh your browser!
+OnClick of the button, a window will pop up where you can select which catalog you want to transfer. You will be able to filter by label, release date or package size.
+When sending for the first time, you may need to do some editing before you can send the batch. This depends entirely on how clean your metadata are and whether they are good enough to send, based on the PRO delivery requirements. In your first run, filtering by package size may be useful to not get overwhelmed.
+For all releases entered in future - once you know which metadata is essential for p.r.o. agency - make sure you always import this data with your next metadata import.
+2) Select the labels and catalog you want to send to p.r.o. agency and click CONTINUE
+You can filter your selection by p.r.o. agency account, label, release date periods, delivery status.
+A new browser tab will be opened that shows all of the selected catalogue. Depending on the size of your package size and catalogue this can sometimes take a minute until you will see your releases.
+The first screen will show you if there are errors that need to be edited. For those please check column Error Description.
+Common errors are:
+• Label not setup @ p.r.o. agency -> please contact p.r.o. agency and make sure the label is set up.
+• composer missing -> please edit the tracks where the composer information is missing on the release
+• track duration missing -> please edit the tracks on the release that are missing the duration
+All lines without errors can be sent to p.r.o. agency immediately by clicking EXPORT DATA TO PRO AGENCY. We recommend however that you edit all lines with missing information before you transfer.
+3) Edit missing information
+To easily edit missing information you can export the list by clicking the EXPORT button. With the exported file on hand, you will be able to edit the missing information whenever you have a free minute. If you want to edit it 'on the fly' you can also always jump between the tabs in detəils and then REFRESH the API tab.
+4) Transfer to p.r.o. agency
+As soon as the Error Description column is empty, just click "TRANSFER DATA TO PRO AGENCY".
+5) After you have transferred data to p.r.o. agency you will see a response screen showing the success of your transfer. Click here to check possible response types you may receive. If you see green flags on all lines your job is done! Yippieh!
+source: https://details.zendesk.com/hc/en-us/articles/360019992338-How-to-transfer-your-catalog-to-p-r-o-agency
+article id = 360019992338

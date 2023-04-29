@@ -1,0 +1,3 @@
+If you feel details is constantly slow on your MAC, but it seems to be fine on others, this to reset RAM parameters:Here are links to Apple Support on what nvRAM is and how to reset it:In English: How to Reset NVRAM on your MacIn Deutsch: NVRAM auf Ihrem Mac zurücksetzenIn French: Réinitialiser la mémoire NVRAM de votre MacIn Spanish: Restablecer la NVRAM en el MacIn Brazilian: Como redefinir a NVRAM no Mac
+source: https://details.zendesk.com/hc/en-us/articles/360003542738-How-to-reset-NVRAM-on-your-Mac
+article id = 360003542738

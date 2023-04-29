@@ -1,0 +1,7 @@
+Whenever we charge you for usage or support costs, you can always find the invoice in the DETAILS application.
+In the classic design, all billings are displayed on the left side under SETIING / BILLING.:
+In the new V2.0 design, you can find invoices in the user menu at the top right under "My Billing".
+To retrieve an invoice, please click on the invoice number and print it out on paper or as a PDF on your computer. For this use the browser print options.We do not create PDFs automatically at this point.In both versions, you will find the support services for the current month on the right-hand side, which will be invoiced to you on your next bill.
+You can find more information on what we charge for feature development and custom programming here.
+source: https://details.zendesk.com/hc/en-us/articles/360003571657-Where-can-I-find-my-invoices-from-details-
+article id = 360003571657

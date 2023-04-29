@@ -1,0 +1,5 @@
+The details ARTIST APP allows your artists to see and download files or documents related to specific bookings, like train or flight tickets, itineraries, instructions or stage plans ... All documents need to be provided from within details with the following steps:1) Go to the booking you want to provide a document for
+2) Click on the "+ Add New File" in the FILES box3) BROWSE the file you want to make available, give it a file NAME and click OK.NOTE: Make sure the documents you want to share are NOT clicked as internal.Internal files will never be shared with anyone outside of details.
+Any NOT internal file made available in the booking will be available for display in the ARTIST APP.NOTE: If you do NOT want to allow this option, make sure you don´t select it when you CREATE and send out the ARTIST APP LINK.
+source: https://details.zendesk.com/hc/en-us/articles/360003572597-How-to-display-documents-in-the-Artist-App
+article id = 360003572597

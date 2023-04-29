@@ -1,0 +1,5 @@
+If you wonder why you can't find the distributor on IMPORTS / OVERVIEW after creating the distribution account, you might have missed the last step of adding an import setup.
+For each sales and/or cost statement, you will need a so-called statement setup which then creates a tile on your Imports / Overview grid. The statement setup includes mandatory info such as account name, currency and channel of statements to expect.
+Read HERE how to add an Import Setup.
+source: https://details.zendesk.com/hc/en-us/articles/4604301164049-I-ve-set-up-a-Distribution-Account-but-can-t-find-the-account-on-IMPORTS-OVERVIEW
+article id = 4604301164049

@@ -1,0 +1,21 @@
+There are different ways that labels and distributors like to send out royalty statements to rights holders:
+Some print the statements on paper, others send each statement via email individually, still others send a batch email with links to statements along with related credit notes.
+In addition we will soon launch a custom B2B plattform for each detəils client where artists & labels will be able to log in and retrieve their statements online.
+NOTE : Before you send out batch emails, set up your custom email templates!
+You can now set custom texts for each statement layout, i.e. for different statement business identities or languages you can define different default texts.
+You can add default reply-to email address as well as a sender name, i.e. which email replies should go to and how the email sender appear in your right holders' inbox.
+You can choose whether or not you want the email to contain royalty amounts.
+Find out how to set up email templates for statement emails here
+This article will show you how to send out statements in a batch email (after template setup)After the setup of your templates, you can send out batch emails from LABEL / STATEMENTS.
+FILTER the period  you want to send out
+Click on EMAIL STATEMENTS button at the bottom to open the selection MODAL
+In the MODAL
+optionally set a CC email that copies of the emails will be sent to,
+optionally set a BCC email that copies of the emails will be sent t,
+select which statements should be send out either manually by Selection/De-selection or select a batch with one of the available filters:
+SELECT ALL will select all statements available (for the current filter)
+SELECT ALL "NOT SENT" will select statements which have not been sent (for the current filter)
+and finally click on SEND EMAILS to send your statements out to all selected contacts ...
+Bingo!
+source: https://details.zendesk.com/hc/en-us/articles/4409330790673-Sending-out-royalty-statements-in-a-batch
+article id = 4409330790673

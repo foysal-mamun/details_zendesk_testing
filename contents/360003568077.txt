@@ -1,0 +1,12 @@
+Overview of the CONTACTS Tab - CONTACTS
+details' CONTACTS is the address book for all your contacts. You can add, edit and delete contacts here.
+Contacts are divided in Company Contacts & Individual Contacts.
+To add a new contact go to CONTACTS / CONTACTS and click [+] top right of the concerning list (company or individual), type in name, city & country and click the Add new contact button.
+You will be directed to the contact page which has the three subtabs Overview, Additional Info & Accounting Info.
+On the OVERVIEW subtab you can add all address details and manage CONTACT GROUPS.
+Related files such as contracts, pictures, etc as well as additional information can be added on the subtab Additional Info. Here you can also export the contact by clicking the export vcard button on the right. This will export a VCF file of the contact.
+On the subtab ACCOUNTING INFO more information concerning accounting like bank account & payment terms can be set up.
+Once you have set up a new contact, you can assign this contact different roles within the modules of details such as ARTIST, PROMOTER & DISTRIBUTION ACCOUNT, . Entered information and accounting settings will always load and be applied automatically in the future workflow.
+Watch a tutorial about how to merge contacts HERE
+source: https://details.zendesk.com/hc/en-us/articles/360003568077-Contacts-Contacts
+article id = 360003568077

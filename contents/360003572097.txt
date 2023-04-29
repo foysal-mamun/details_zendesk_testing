@@ -1,0 +1,30 @@
+detəils allows you to manage multiple companies – or "Identities" as we also call them – and to customize as many invoice layouts as you need.
+Invoice layouts are made of several elements, such as invoice header, body and footer, but also various text elements and variables.
+invoice header is typically your logo, name and address.
+invoice body is a text and/or lines of what you invoice. In detəils the invoice body starts with a leading text element, followed by invoice lines and a trailing text (see below).
+invoice footer is typically your company registration, bank information and payment instructions
+A standard invoice layout would include some of those elements as follows:
+detəils comes with 3 default layouts, which you may adapt to your needs and use as templates if you need more.
+Your main invoice layout, an internal note (mainly for "self-billing invoices", intra-company billing or other non-official billings) and a royalty invoice project which is the layout for royalty statements that will be sent to rights holders.
+All invoice layouts are customizable in SETTINGS / IDENTITIES / Invoice Layouts. Click the + icon to add new or click a template in the list to modify existing layouts, leading texts etc. Please read the following instructions carefully if you want to edit them by yourself.
+Remember that we are available for support if you need help!
+The first tab you see when adding a new company or edit an existing one is Company Setup.
+On the top right side of this tab you will see the invoice project name which you can edit anytime.Right below you may edit the required number format for Invoices, Cost Invoices or Royalty Statements. This format will be used for every new invoice or cost invoice or statement you create. Parts of the format can be fixed text, i.e. company initials, but also variables (see screenshot).#yyyy# => will make a 4 digit year => 2021 (default)#yy# => will make a 2 digit year => 21Year variables will automatically change with the calendar year.
+#nr# => will make a 4 digit zero padding => 0001 (default)#nr2# => will make a 2 digit zero padding => 01#nr3# => will make a 3 digit zero padding => 001#nr6# => will make a 6 digit zero padding => 000001#nr10# => will make a 10 digit zero padding => 0000000001Number variables will increment + 1 for each new invoice of this invoice project.
+The setting of the invoice country is particularly relevant for the VAT behaviour of the invoices created with this invoice layout! The VAT behavior for new generated invoices follow the following 5 rules:
+IF invoice_project country = invoice_contact country => VAT will be added on top
+IF invoice_project country = EU.country AND (invoice_contact.country = EU.country AND "VAT ID is valid") => no VAT
+IF invoice_project country = EU.country AND (invoice_contact.country = EU.country AND "VAT ID not valid") => VAT will be added on top
+IF invoice_project country = EU.country AND (invoice_contact.country = NOT EU.country) => no VAT
+IF invoice_project country = NOT EU.country AND (invoice_contact.country = EU.country) => no VAT
+where
+invoice_project country = home country of selected company invoice_contact country = home country of invoice recipientEU.country = Member-state of the EU (... excludung the UK starting January 1st 2021)
+Next in the list is the default currency, which is the currency used for invoices created with this template.
+Below this you can set defaults for preferred payment methods and accounts for this invoice layout. Money accounts can be set in SETTINGS / ACCOUNTING.
+Default invoice due days and discounts can be set below.
+If this layout is used for royalty statements, check the box on Royalty Layout.
+On the right hand side you can find two textboxes for leading text and trailing text elements. Those will appear on top and below the invoice body, i.e. the invoice lines.
+Many variables may be used in those sections, like due dates, invoice numbers, orpayment_method:    [% payment_method.DATA.payment_method_name %]
+tba.
+source: https://details.zendesk.com/hc/en-us/articles/360003572097-Add-and-edit-your-Invoice-Layouts
+article id = 360003572097

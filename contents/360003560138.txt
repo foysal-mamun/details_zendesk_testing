@@ -1,0 +1,185 @@
+This is a documentation of our current Sales API in Version 1.0 (2019).
+The API allows you to ingest sales directly into detəils client databases via JSON file transfer.URL: https://api.berlin3.com/api/clientID/ParametersDetails platform expects a form data object.
+Parameters
+Description
+Expected Value
+clientID
+Unique Client Id
+file
+JSON file location to upload
+action
+The type of action
+add_sales
+year
+Sales Year
+yyyy
+month
+Sales Month
+mm
+currency
+currency ISO
+shared_key
+to identify statement source
+api_key
+Unique Client API Key
+To access your API key, go to Settings > Sharing.Details expects the JSON file to be an array of objects.
+API Field Name
+Mandatory / Optional
+Data Type
+Expected Value
+Field Description
+Transformations
+identifier
+M
+Text
+ISRC,UPC,SKU
+Main Identifier
+if(length(ISRC)>0;ISRC;UPC)
+identifier_product
+M
+Text
+UPC,SKU, GRiD, etc.
+Secondary Identifier
+artist
+M
+Text
+Artist Name
+Main Artist (feat. Artist)
+title
+M
+Text
+Title of Item
+if(length(Track title)>0; Track title;Release title)
+catalog_no
+O
+Text
+Catalog No
+country
+M
+Text
+ISO2
+Country
+shop
+M
+Text
+name of DSP(Platform)
+usage_type
+M
+Text
+"DL" for Audio Download,"DV" for Vidio Download, "STR" for Audio Stream, "STV" for Video Stream,
+"PROMO" for Platform Promotion
+Digital Sales Type
+if(sales_type = 'Audio Download','DL'),elsif(sales_type = 'Video Download','DV'),elsif(sales_type = 'Audio Stream','STR'),elsif(sales_type = 'Stream','STV')
+usage_type_description
+O
+Text
+"Music Video","Music compilation","Ringtone", etc
+Description of Digital Sales
+qty
+M
+INT Signed
+Quantity
+ppu
+M
+DECIMAL 25,15
+Unit PPD in statement currency
+PPD = Price received at Distributor
+sales_date
+M
+Date
+yyyy-mm-dd
+Sales Date
+alternativly: End of Sales Month
+import_format
+M
+Text
+"Bundle","Track","CD","LP","T-Shirt","Video","Box"
+Item Format
+Physical: Format ("CD", "LP", 12", "Box", etc.), Digital: ("Bundle","Track","Video","Ringtone", etc.)
+channel
+M
+Text
+"d", "p" or "n"
+"d" for digital, "p" for physical, "n" for neigbhoring rights/performance
+mechanical_pu
+O
+DECIMAL 25,15
+Cost per unit for mechanicals
+= "total mechanical fee"/"quantity"
+Note
+***We use monthly reporting instead of quarters or half years since monthly is now the main expected industry standard. We will add weekly as the industry standard evolves.
+Return Values (Details returns an object.)
+Returning Object Field
+Description
+success
+Always 1 when present means call succeeded
+error
+Will have a value when there is an error. (period_already_id, shared_key_unknown, Invalid Request, Auth Failed)
+Example
+Sample Request
+file = [ json_file_path ],
+action = "add_sales",
+clientID = '',
+year = '2019',
+month = '3',
+currency = 'EUR',
+shared_key = '5db88a23ba1527c5493ffd26cfab687b',
+api_key = "1f1271f6d8a4070deb876fb2655f2685",
+description = 'statement description'
+Sample of JSON File
+[
+{
+"identifier": "DEAK123456",
+"identifier_product": "0123454712872",
+"artist": "Superaki",
+"title": "Paris Moskau (Strom Mix)",
+"catalog_no": "Det Rec 002",
+"country": "FR",
+"shop": "iTunes",
+"usage_type": "DL",
+"usage_type_description": "Full Price Download",
+"qty": 112,
+"ppu": 0.53,
+"ppd": 0.70,
+"sales_date": "2018-11-30",
+"format": "Track",
+"channel": "d",
+"mechanical_pu": 0.12345,
+},
+{
+"identifier": "0123454712872",
+"identifier_product": "",
+"artist": "Superaki",
+"title": "Paris Moskau",
+"catalog_no": "Det Rec 002",
+"country": "DE",
+"shop": "iTunes",
+"usage_type": "DL",
+"usage_type_description": "Full Price Download",
+"qty": 41,
+"ppu": 3.20,
+"ppd": 4.00,
+"sales_date": "2018-11-30",
+"format": "Bundle",
+"channel": "d",
+"mechanical_pu": 0.12345,
+},
+{
+"identifier": "0123454712872",
+"artist": "Superaki",
+"title": "Paris Moskau",
+"catalog_no": "Det Rec 002",
+"country": "US",
+"shop": "Big Cartel",
+"qty": 10,
+"ppu": 5.20,
+"ppd": 7.90,
+"sales_date": "2018-11-30",
+"format": "12inch",
+"channel": "p",
+}
+]
+Sample Response
+{"success":"1","error":""}
+source: https://details.zendesk.com/hc/en-us/articles/360003560138-How-to-connect-to-our-sales-ingestion-API
+article id = 360003560138

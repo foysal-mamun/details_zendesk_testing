@@ -1,0 +1,3 @@
+Some clients witness issues with scrollbar overlays on regular Firefox updates.It seems that the browser updates for some people create a conflict with our ''List'' displays, which get overlayed by a scrollbar.Here is an example: To solve the  issue, you need to change the OS X settings as in screenshot below to "ALWAYS" and restart your computer:german iOS setting below:
+source: https://details.zendesk.com/hc/en-us/articles/360003556758-How-to-resolve-issues-with-overlaying-scrollbars-in-Firefox-and-iOS
+article id = 360003556758

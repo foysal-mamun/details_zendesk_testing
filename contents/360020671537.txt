@@ -1,0 +1,8 @@
+As a label, it is important to be able to access as many different revenue streams as possible for your releases. A key source of income are neighboring rights, which can be exploited depending on the existing licence agreement. Their revenues derive mostly from public performances and broadcasting and need to be collected from local collecting societies such as GVL, PPL, SPPF, SENA and many others.
+A trusted company that provides worldwide exploitation of neighbouring rights is p.r.o. agency, collecting directly from more than 60 collecting societies worldwide.
+At detəils are happy to integrate with p.r.o. agency in order to simplify the workflows for our mutual clients, who can benefit from an automated data transfer via API.
+The aim of the partnership is to simplify the data flow for labels and label services and to avoid multiple data entries.
+Transmitting data automatically supports our customers in their administrative tasks and supports the swift and fair remuneration of authors and artists.
+With this in mind, detəils, p.r.o. agency and WeConvert launched the 'Connecting the Tools' initiative in 2019, which was supported by the European Union's Music Moves Europe programme.
+source: https://details.zendesk.com/hc/en-us/articles/360020671537-Transfer-catalogue-from-det%C9%99ils-to-p-r-o-agency-via-API
+article id = 360020671537

@@ -1,0 +1,4 @@
+If you want the confirmed dates of your Artist to appear in your website or in Gigatools, please use our RSS feeds links:
+Copy-paste the 'All Artists link' or one single 'Artist link' to your website or gigatools (Pro account).
+source: https://details.zendesk.com/hc/en-us/articles/360003571457-RSS-Feed-How-to-import-the-Artist-dates-to-your-website-or-gigatools
+article id = 360003571457

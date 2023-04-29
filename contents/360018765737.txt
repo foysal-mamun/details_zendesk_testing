@@ -1,0 +1,8 @@
+All your tracks should have set a MAIN PRODUCT.
+When importing new repertoire OR creating tracks manually out of an existing PRODUCT, the main product is set automatically by details.
+If you create new tracks from LABEL / TRACKS and add these to a PRODUCT afterwards, you must select the main product manually in the track, details suggests you a list of products the track part of.
+Please note, tracks without MAIN PRODUCT selected are not accounted to your artist's royalty statements!
+This is because not all digital shops do not provide ISRC plus BARCODE information in their sales statements, hence details cannot know from which product tracks have been streamed / downloaded. Track income will be reported in contracts containing both main product and track.
+On Label / Tracks you can either scroll through your tracks list, tracks without main product show !!! in the MAIN CATALOG NO column. You can also view or export a list by using the Advances Search. Here you can select the filter Missing Main Product and either click Search to get a list within details or Export to download a file.
+source: https://details.zendesk.com/hc/en-us/articles/360018765737-What-is-the-track-s-MAIN-PRODUCT
+article id = 360018765737

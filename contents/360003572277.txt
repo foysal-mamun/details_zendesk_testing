@@ -1,0 +1,3 @@
+The ARTISTS section of details LABEL module allows you to manage all of artists releasing on any of your LABELS.ADD a new artist with a click on the green + icon on the top right.EDIT an existing artist with a click on the bold artist name.DELETE an existing artist with a click on the red x icon.NOTE: The artists from this section are NOT automatically used or identical with Release artists, Product artists or Track Artists. Read here how to relate Artists with Releases, Products and Tracks.For compilations however itÂ´s obvious that your artists will not always be identical with release- or track artists.
+source: https://details.zendesk.com/hc/en-us/articles/360003572277-Label-Artists
+article id = 360003572277

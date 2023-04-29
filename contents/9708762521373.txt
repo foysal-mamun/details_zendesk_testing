@@ -1,0 +1,7 @@
+With the latest update we have changed the process of setting up tax types such as withholding taxes in order to allow deducting tax groups including multiple taxes!
+To set up a new tax / withholding tax, first you need to a new tax type on SETTINGS / ACCOUNTING / TAXES.
+Then you need to create a new tax group too: If your group only includes one tax type, you can name it as the tax type.
+To add tax types to the tax group, you select the tax group from the list and then add the tax types per drag and drop to the Tax Group Items box!
+Now, you will be able to add your tax group in details invoices and cost invoices as well as royalty accounts.
+source: https://details.zendesk.com/hc/en-us/articles/9708762521373-Set-up-new-taxes-New-Procedure
+article id = 9708762521373

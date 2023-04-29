@@ -1,0 +1,7 @@
+From a Google Calendar1. Go to the calendar you want to share.
+2. Click on 'Share this Calendar' (there is no need to tick the 'Public this Calendar' section)
+3. Then choose 'Calendar Details' tab
+4. Go to: Private Address and choose the 'ICal link'
+5. Paste this exact link on the Artist defaults -  ICal web links - External dates section.
+source: https://details.zendesk.com/hc/en-us/articles/360003532918-How-to-add-external-ICal-calendars-to-Details-from-a-Google-Calendar
+article id = 360003532918

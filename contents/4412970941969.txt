@@ -1,0 +1,29 @@
+How to start with details - manual
+read previous step here - how to add Sales Import Setup
+After finishing your sales import setup, a new line is now added on Distribution > Sales Imports.
+To import your sales statement, click on the respective tile.
+You find distribution account and related sales statement setup are on the horizontal line, statement year and period on the vertical line of the grid.
+Select the import file from your computer. Your file might need to be formatted before importing, some guidelines can be found here.
+You will be directed to the import page, showing a preview of the uploaded file. Here you can assign the import headers from the drop down menus. Column headers need to match with the headers of import file. Columns you do not necessarily need for the import, can be blank.
+Please note: To save the configuration for future imports, click on the Save Configurations button. Then click Proceed.
+You can check the import status by clicking the REFRESH button on top left.
+Status PENDING:
+If you upload a sales import in a moment of high traffic, your status might be pending for a while until earlier uploads of other clients have run through.
+Status PROCESSING
+Processsing means your sales import is in the process of calculation.
+Status UPLOAD COMPLETE
+The status Upload Complete means that your sales import has been successfully transferred into Details, but not all products or tracks could be matched automatically.
+Status MATCHING COMPLETE
+Matching Complete means that the sales import has been successfully transferred to details and all products and tracks could be matched.
+You will also be notified by mail when the import process is complete.
+Attention: If there are products / tracks that could not be matched automatically by identifier (ISRCs, barcodes etc), these need to be matched manually on the Import Matching tab.
+To match a track or product, click on the bold text in the first column and select the correct product/track you want to add the sale to.
+All manual matches will be saved for future statements.
+Once all  items have been matched, go to Import Result. At the bottom find your statement summary, total unit quantities and total amount.
+Please check these totals carefully and click Account Statement to invoice your statement if all match your statement files.
+You will be directed to Current Statements on the Distribution Accounts’ tab.
+All open current statements are listed here.  Please select from the statements listed and click Account Statements. An invoice will be created.
+You can invoice one single statement or multiple statements together on one invoice.
+read next step here - how to import costs
+source: https://details.zendesk.com/hc/en-us/articles/4412970941969-Import-Sales
+article id = 4412970941969

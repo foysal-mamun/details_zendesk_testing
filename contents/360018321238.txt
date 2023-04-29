@@ -1,0 +1,45 @@
+If you are using the p.r.o. agency Delivery API, here is the list of possible API messages:
+Pro Agency Responses
+On Response 200, the delivery worked fine ... you are good!
+On Response 400, you need to contact either p.r.o. agency or us to find out what´s wrong.
+On Response 401, you authentification credentials are wrong. Please doublecheck the login and API Keys.
+On Response 406, some required Metadata is missing and you need to add more info to your repertoire in order to be able to deliver that line. You can find more information on this topic HERE
+Here is the full list of metadata information :
+{
+"LabelId": "",
+"Labelname": "Muster Label",
+"ReleaseArtist": "Max Mustermann",
+"ReleaseTitle": "Max Mustermann Allstars Summerhits",
+"NameDistributor": "Name Vertrieb",
+"CatalogueNumber": "DF53423",
+"Format": "CD,LP,MP3",
+"TypeContent": "Video",
+"ReleaseDate": "2014-04-18",
+"StartDate": "2012-01-01",
+"EndDate": "2061-12-31",
+"UPC_EAN": "4047129768922",
+"TerritoryRights": "WW",
+"Tracks":[
+{
+"TrackNumber": 1,
+"TrackArtist": "Max Mustermann",
+"AdditionalTrackContributorsArtist": "",
+"AdditionalTrackContributorsAccompanist": "",
+"AdditionalTrackContributorsFeaturing": "",
+"AdditionalTrackContributorsWith": "",
+"TrackTitle": "Summerhit",
+"TrackDuration": "00:02:56",
+"TrackVersion": "",
+"ISRC": "DEH654336844",
+"Author": "Max Mustermann",
+"Composer": "Max Mustermann / Second Author",
+"Publisher": "",
+"GenreCode": "Popular",
+"YearOfRecording": "2012",
+"CountryCodeRecording": "DE",
+"NameFirstOwner": "Muster Label",
+"CountryCodeFirstOwner": "DE",
+"PercentageRights": 80.75
+}
+source: https://details.zendesk.com/hc/en-us/articles/360018321238-List-of-p-r-o-agency-response-messages
+article id = 360018321238

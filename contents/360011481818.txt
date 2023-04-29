@@ -1,0 +1,24 @@
+Dear customers and colleagues,
+below you find the info regarding our update summer 2020.
+Please make sure you take a moment to read through it or save the information as PDF for any questions that might occur during your workflow.
+*NEW* General - Contact Bank Infos on own subtab
+Storage of Contact banking information will change fundamentally with the update! If there occur any issues with your templates, regarding bank information, please contact us.
+Until now, there was a limited number of fixed fields for banking information in Contacts / Accounting Info. In the future, there will be several options for banking information, which can be selected individually for each contact.
+Additionally, banking information now has its own sub-tab within your contacts, called Invoices.
+*NEW* General - Contact Import now available as XLS import
+We have revised & updated the contact import process! You can now download an easy XLSX template on Contacts / Import&Export, fill in all your contacts and upload as XLSX again to import.
+On top we have added 2 more columns 'Is Distribution Account' and 'Is Royalty Account'. To automatically create a royalty / distribution account for the import contact, just add ‚x‘ in the according column.
+*NEW* General - Grouping of Plugins
+Over the last year we have created a large number of additional custom reports and custom features in our various plugin sections.We have now thoroughly structured and organized these plugins.You can also see which plugins you currently have activated and what else is available.
+What are Plugins? You can think of plugins as our own details "App Store", where you can activate specific additions to our standard platform. Most plugins are free, some are billable.
+*NEW* Label - Separation of subtabs for Royalty & Statements and own tab for Contracts
+We have added a new dedicated subtab for royalty contracts. You can search and find all your current royalty contracts here and access them directly.For better navigation, we have separated the management of Royalty Accounts & Contracts from the actual Royalty Statements. These are now two independent tabs within the Label section.
+*NEW* Label - Status for Releases, Royalty Accounts and Contracts
+With the update you can create and assign customizable Status information for releases, royalty accounts and royalty contracts.
+You can create the statuses with your own description and colors under Settings / Labels / Additional information, which are then displayed in the respective lists.
+A legend at the end of each list displays the status descriptions. The custom status is searchable in the Advanced Search. Each entry can have a user-defined status.
+Thank you for your attention and all the best for the rest of the summer!
+Stay safe!
+Team details
+source: https://details.zendesk.com/hc/en-us/articles/360011481818-08-2020-details-update
+article id = 360011481818

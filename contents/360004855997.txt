@@ -1,0 +1,7 @@
+The Report from Accounting - Reports - Booking Reports - MONEY DETAILS REPORT exports all invoices that are linked to bookings, i.e. were written from within a booking.
+Other invoices may have been created from Accounting / Invoices as free text invoices without connection to a booking. Those will not appear in the Booking Reports.
+You can see whether an invoice is linked to a booking or not by booking for the button “GO TO BOOKING” at the bottom right of the invoice.
+If the button is there, the invoice is linked, otherwise it is not
+Go To Booking button
+source: https://details.zendesk.com/hc/en-us/articles/360004855997-Why-do-invoices-not-appear-in-the-Money-Details-Report
+article id = 360004855997

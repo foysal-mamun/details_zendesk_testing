@@ -1,0 +1,21 @@
+As our name suggests, we would never restrict our clients to a static set of royalty calculation types to choose from. In fact, quite the opposite: In the detəils you will probably discover so many ways to calculate royalties that you may even be surprised that such terms actually exist! Well, yes, they do ....
+Here is an overview of options to choose from that can be applied to royalty options in Royalty Contracts.
+You can find those conditions on the right-hand side of the modal window to set your royalty rates.
+Think of the conditions as a filter that triggers the application of the current rule:
+IF the conditions on the right are met, THEN the rate and deductions on the left will be applied.
+Let´s start with digital :
+In the detəils you may apply a royalty option to a selected territory. Territories are customizable groups of countries which can be set in SETTINGS / GENERAL.
+You can also specify which type of digital sale should be affected by the current rule. We differentiate 4 different usage types in detəils:Audio Download ("DL")Video Download ("DV")Audio Streaming ("STR")Video Streaming ("STV")NOTE: If you do not explicitly pick one of these options, the system will include all of them in the calculation. If you select specific ones, however, the current rule only applies to sales of those usage types.
+Another filter option is by distribution account, i.e. by source. With this option you may select to have sales accounted on a specifc rate when sold by a specific digital distributor / aggregator.
+You can also choose to apply a royalty option specifically on bundle (album) or track sales only.
+If you have contracts that include multiple releases and you want a particular rate to apply to a particular one only, specify the release covered by the royalty option.
+The same applies to products. If you have contracts that cover multiple products and you want a specific rate to apply to only one product, enter the barcode for that royalty option.
+If, however, you want to combine not only one product but several products at your own discretion and have them processed according to one rule, create a product group and select it for this rule.
+If your contract states a specific term for a royalty rate, set the duration of rule application from product release in months. This rule will apply only within the period since product release, which is the release date plus any product release shift.  The period is defined in months, i.e. one year = "12" and three years = "36".This rule will apply for sales made within the set period only and not beyond.Example: If you want a royalty option to change after x months after the product release, you will first have to define one of these rules, and then another rule with the royalty rate to follow after the end of the initial period.
+For physical sales some options are the same, others are different:
+One particular aspect is the indication by type of sale. This condition allows you to set different royalty rates for sales than for returns, etc. See the list of sales types below.
+Another characteristic of physical sales is that they can be settled according to customised price lists. More information on price lists and price codes can be found here.
+You can also create royalty options for predefined product categories, explicitly albums, singles and merchandise.
+In addition you can customize your own product groups and set specific royalty rates accordingly.
+source: https://details.zendesk.com/hc/en-us/articles/360019765978-Conditions-for-Royalty-Options
+article id = 360019765978

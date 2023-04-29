@@ -1,0 +1,15 @@
+The calculation of royalties depends largely on the terms of the licence agreement and the resulting accounting rules.
+Put simply, royalties are calculated by multiplying a sales quantity at a specific base price with a royalty rate. A simple example would be 1.000 CDs * 7 € PPD * 20% royalty rate = 1.400 €.
+However, if royalty calculation was always this simple, there would be no need for a database solution like detəils. This article shows you how to set up more complex rules for royalty calculation correctly.
+In detəils you can manage rules for royalty calculation seperatly for each channel
+physical sales
+digital sales
+licensing / thirdparty revenue
+performance revenue
+Each channel can have one or multiple rules or royalty options as we call them.
+Please check below to find out ...
+how to set royalty rates for digital sales
+how to set royalty rates for physical sales
+how to set conditions for royalty options
+source: https://details.zendesk.com/hc/en-us/articles/360019662098-How-to-set-Royalty-Rates-in-Royalty-Contracts
+article id = 360019662098

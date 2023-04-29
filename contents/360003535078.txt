@@ -1,0 +1,3 @@
+INVOICE LINE GROUPS are your own customizable booking deal types, i.e. preset groups of BOOKING ITEMS which you can create and edit whenever you and however you want.
+source: https://details.zendesk.com/hc/en-us/articles/360003535078-INVOICE-LINE-GROUPS
+article id = 360003535078

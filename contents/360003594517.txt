@@ -1,0 +1,7 @@
+You may face the problem of being logged out of the system without explicitly logging out.
+There are several causes why users are being logged out:
+After login if the system is idle or not used for a bit then the session will expire automatically and user needs to log in again.
+If same user id and password is used by other user in same time then the first logged in user will be logged out.
+Another issue is related to the third-party cookie settings in the browser.Follow these steps to resolve this issue:1) Go to "preferences" in your browser.2) Switch to "Privacy and Security".3) Set "Tracking Protection" to "NEVER".Screenshot:4) Scroll a little lower to "Cookies and Site Data" in "Privacy and Security" tab.5) You should "ALWAYS" Accept Cookies.Screenshot:
+source: https://details.zendesk.com/hc/en-us/articles/360003594517-You-are-logged-out
+article id = 360003594517

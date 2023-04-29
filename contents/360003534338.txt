@@ -1,0 +1,9 @@
+Details allows you to specify specific restrictions per user login by yourself at all times.To manage users restrictions go to Settings - User Settings and select the user in question.NOTE: You need to have administrator rights to access this tab.In the Box ''General'' at the top left of the screen, you will see all user infos and access information.
+If Accounting Master is selected, user can add / edit banking infos on Contact / Accounting Info. If this is NOT selected, user can only view this page.You can hide specific modules or tabs for certain users. Clicking any of the following checkboxes will hide the selected areas or tabs of details so that user cannot access these anymore. Please click Save after you've made your custom settings in order to apply.
+V1
+V2
+Furthermore details allows you to restrict access to selective Booking Artists and Companies (Invoice Identities) to specified usersOn the same page in the bottom left corner you can add or remove access restrictions to selected Companies (Invoice Identities) Right next to it you can add or remove access restrictions to selected Booking Artists and their bookings.
+V1
+V2
+source: https://details.zendesk.com/hc/en-us/articles/360003534338-How-to-manage-user-restrictions
+article id = 360003534338

@@ -1,0 +1,7 @@
+The idea of the PLUGIN report is to compare stock levels to recent sales performances.
+The idea is that only items with a certain sales performance have a stock relevance, since you may be more  interested on the fact that a product goes out of stock for an item that sells a lot then on items that have not moved for the last half year.
+So the report gives you stock levels of items that have been sold in recent months.
+The „Offset Qty“ in that query is the amount of sales which is used as filter for your report.
+If you set „Offset Qty“ to 1, it will give you a report of all items that have at least sold 1 unit in the last 6 months.If you set „Offset Qty“ to 5, it will give you a report of all items that have at least sold 5 units in the last 6 monthsetc.
+source: https://details.zendesk.com/hc/en-us/articles/360018074338-Stock-Report-on-Sales-Performance
+article id = 360018074338

@@ -1,0 +1,10 @@
+Most of our LABEL clients manage one or more accounts on Bandcamp and that's great as it can sell a lot. However, Bandcamp reporting can be a bit of a headache.
+We try our best to simplify and/or automate distribution imports, but it is a constant process of optimisation.
+Currently we offer three different way to import Bandcamp sales:
+For clients who manage multiple labels and have a Bandcamp Fulfillment Account, we offer to import Bandcamp sales automatically into details per API via our Partner WeConvert.
+For clients who wish to handle bandcamp orders for physical products as orders in details, we can integrate with Bandcamp´s Merch Orders API . This will download all physical product orders into details where you can handle each order individually. You can find more information on this here.
+For all regular clients we provide a conversion toolkit which converts Bandcamp´s RAW DATA REPORT into pre-configured XLSX files which can then be easily imported into details.To get that report, log into your Bandcamp account and go to the "Artist Tools" section:
+For the time being you need to import those reports into our Bandcamp toolkit and convert it into files to import into details. For more on our Filemaker Toolkits please contact our Label Team.
+Please contact label_team@berlin3.com if you need more information on any of this.
+source: https://details.zendesk.com/hc/en-us/articles/360017608537-Bandcamp-Sales-Imports
+article id = 360017608537

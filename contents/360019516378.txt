@@ -1,0 +1,13 @@
+There are several ways in details to grant discounts on a distribution order.
+Full Order Discount
+The full order discount can be used for periodic events such as sales events or for special arrangements with the distribution accounts such as turnover-related discounts.
+If you want to give a discount on a selected order, create the order as usual. On the discount field  you can add the discount percentage you want to give on this order.
+The discount is applied to the order's subtotal. It is not applied on additional shipping costs.
+You can enter notes on special arrangements on the Accounts Setup page as deal memo. These deal memos will be displayed to you on the order process so that you can apply discounts accordingly.
+Default Orderline Discount
+You can also grant a general discounts to one of your distribution accounts. The discount will be applied to all orders from this distribution account.
+Go to the distribution account's Setup page and enter default discount for this selected account. The discount will be applied on each orderline within orders from this account.
+You can add different discount rates by price code too. Just click the (+) icon to add price codes and enter the discount rate.
+These discount rates by price code will overwrite general account's discount rate.
+source: https://details.zendesk.com/hc/en-us/articles/360019516378-Distribution-Order-Discount-Options
+article id = 360019516378

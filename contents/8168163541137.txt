@@ -1,0 +1,6 @@
+On RELEASES / OTHER INCOME you can manually add incomes that are not related to a specific product. Typical release incomes are sponsoring or fundings.
+To add new income, click the green PLUS on top right of the list, enter the income date and a description.Select an INCOME GROUP - which can be set up under SETTINGS.Enter the amount and save.
+To recoup any of your incomes, click ACCOUNT RECOUPABLES.
+Read HERE how to set up new Other Income Groups
+source: https://details.zendesk.com/hc/en-us/articles/8168163541137-OTHER-INCOME-on-Releases
+article id = 8168163541137

@@ -1,0 +1,7 @@
+To set your invoice to paid, go to ACCOUNTING / INVOICES and click the PEN icon on the right side of the list.
+In the Invoice Status modal select Set Fully Paid.
+In case you received partly payments, you can select Set Partly Paid and add the amount. Whenever you receive the additional payment, you can set the invoice to fully paid in the same modal.
+If you need to revert or correct a payment, click the Pen icon and select DELETE PAYMENTS AND SET OPEN to enter new payment details.
+Read here to handle foreign currency payments.
+source: https://details.zendesk.com/hc/en-us/articles/4419290045713-How-to-set-an-invoice-to-paid
+article id = 4419290045713

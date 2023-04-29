@@ -1,0 +1,8 @@
+Some of you have noticed that old browser bookmarks starting with WWW stopped working with recent Firefox updates. Those need to be updated!
+OLD URLs started with https://www.detailsdetails.eu/YourclientID*/
+NEW URLs need to be https://app.detailsdetails.eu/YourclientID*/
+In other words, please replace "WWW" with "APP".
+This concerns all details links such as application bookmarks or booking request forms.
+*replace YourclientID with your database name.
+source: https://details.zendesk.com/hc/en-us/articles/4409344544529-Update-your-bookmarks-10-2021-
+article id = 4409344544529

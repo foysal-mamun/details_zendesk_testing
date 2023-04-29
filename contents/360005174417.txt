@@ -1,0 +1,5 @@
+Update April 2023 : WeConvert will terminate it´s service in May 2023.Instead, details will now provide it´s own internal solution to automatically download, convert and make sales available in details.
+This replacement will enable a fully automated sales ingestion directly from iTunes, Amazon or Merlin accounts directly into the details plattform. Other services will follow.
+For the time being, we will keep the same prices as WeConvert until our investment in programming has recouped, and later integrate this additional service into our general pricing.
+source: https://details.zendesk.com/hc/en-us/articles/360005174417-Sales-ingestion-from-iTunes-Amazon-or-Merlin
+article id = 360005174417

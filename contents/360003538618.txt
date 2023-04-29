@@ -1,0 +1,11 @@
+Here is code for clickable EMAIL, PHONE and URLs in HTML templates:
+for EMAIL use
+% email_address %
+where [% email_address %] is a placeholder for real email address
+for PHONE use
++1 (303) 499-7111
+for URL use
+% url %
+where [% url %] is a placeholder for real url
+source: https://details.zendesk.com/hc/en-us/articles/360003538618-Code-for-clickable-EMAIL-PHONE-and-URLs-in-templates
+article id = 360003538618

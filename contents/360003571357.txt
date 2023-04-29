@@ -1,0 +1,3 @@
+If you want to get an overview on how the Promoter App works, please watch our video 'Promoter App' To start using it, please follow these steps:This is what the promoter sees in his Promoter App:This is the invoice section in the Promoter App, with the status of each invoice:And this is what you see in your login:
+source: https://details.zendesk.com/hc/en-us/articles/360003571357-How-does-the-promoter-App-work-
+article id = 360003571357

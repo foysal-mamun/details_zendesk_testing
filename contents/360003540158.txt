@@ -1,0 +1,27 @@
+Here is the HTML code including datapoints for a custom Infosheet looking like this:
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css"> #footer
+tfoot, #tfoot
+<style type="text/css" media="print"> #footer
+tfoot, #tfoot
+[% FOREACH product = release.products %] [% IF (product.format_name != "CDA") AND (product.format_name != "Digital Album") AND (product.format_name != "Digital Single") %] [% IF loop.count == 1 %][% END %][% IF product.ppd != "" %][% END %][% IF loop.count == 1 %][% END %] [% END %]
+Label: [% release.label_name %]
+Genre: [% release.genre_name %]
+[% product.format_name %]
+Cat #:[% product.catalog_no %]
+Retail Price:[% product.ppd %]
+UPC:[% product.barcode %]
+Tracklist
+[% END %] [% IF loop.count == 1 %]
+[% track_set_nos = [] %] [% FOREACH trk = product.tracks %] [% set_no = trk.set_no %] [% NEXT IF track_set_nos.grep("^$set_no\$").size %] [% track_set_nos.push(set_no) %] [% FOREACH track = product.tracks %] [% NEXT IF set_no != track.set_no %]
+[% track.seq_no %]. [% track.title %] [% track.version %] ([% track.playtime %])
+[% END %] [% END %]
+[% END %]
+[% l_artists.url1 %]
+[% l_artists.url2 %]
+[% release.release_artist %]
+[% release.release_title %]
+RELEASE DATE: [% release.release_date %]
+[% release.release_info_english | html | html_line_break %]
+source: https://details.zendesk.com/hc/en-us/articles/360003540158-HTML-code-example-for-a-custom-Release-Info-Sheet
+article id = 360003540158

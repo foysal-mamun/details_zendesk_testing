@@ -1,0 +1,5 @@
+To meet current security standards, the password reset procedure will be updated with the next update.
+When requesting a new password, you will receive an email with a recovery link and instructions on how to set up a safe password.
+In order to receive these emails, please make sure that your user accounts have valid emails! All detəils client admins can add / edit user emails related to detəils logins in Settings > Users.
+source: https://details.zendesk.com/hc/en-us/articles/4409343632785-New-password-reset-process
+article id = 4409343632785

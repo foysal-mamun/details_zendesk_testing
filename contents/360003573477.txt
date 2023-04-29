@@ -1,0 +1,3 @@
+On PRODUCTS / TRACKS you can add existing TRACKS or enter new tracks to the product.To do this, click on the green PLUS on the top right.Enter artist, title & version and click the NEW TRACK button.Or select an existing track by scrolling through the list of tracks. Choose the track by ticking the box left beside the track title and and clicking on OK. You can also search for artist names and tracks titles and select several tracks simultaneously.If you want to copy a tracklist from another product, click the below button COPY TRACKS FROM CATALOG NO and choose the catalog number you want to copy the tracklist from.How to create ISRC codes automatically
+source: https://details.zendesk.com/hc/en-us/articles/360003573477-PRODUCT-Tracks
+article id = 360003573477

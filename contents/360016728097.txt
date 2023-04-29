@@ -1,0 +1,20 @@
+The UK formally left the EU on 31 January 2020, at which point a transition period began. This ends on 31 December 2020.
+Although negotiations have concluded between the UK and EU governments on how the movement of goods, services, people and capital across the UK/EU borders will be processed following the end of the transition period, little is known on how this will affect the music industry yet.
+If you are a UK business, please check the UK government´s official Brexit transition page for more info. Also you can find AIM's Brexit Business Guidance for Music SMEs here.
+If you are a European business, pleaase check the EU´s official Brexit brief.
+From a music business perspective the key factor is that the UK used to be a member of the EU’s single market and customs union, which enables its member states to function as a single trading area with no tariffs or border checks, and with a combined VAT system.
+These aspects of international trade will change to a greater or lesser degree following the end of the transition period in regards to
+Import and export of goods to and from EU countries or the UK, including associated VAT payments,
+VAT refund claims and (potentially) custom and excise duties,
+Transport and logistics, including fulfilment.
+This is likely to have an effect on physical distribution, such as CDs, Vinyl, etc. as those goods may be eligible for customs duties and import VAT.
+If you import goods to the UK from the EU you may now need an Economic Operator Registration and Identification (EORI) number that starts with GB, and you will need to declare goods when they enter GB via an entry summary declaration.
+In this regard, please note that detəils allows you to customize delivery notes, proforma invoices and other documents you may need to help your goods cross borders.
+Brexit may also affect the way you want to manage personal data between the EU and UK.
+An important issue is also the VAT rates on cross-border supplies of goods and services.
+Find answers to a lot of related questions on the official EU guide for businesses.
+Find out here how VAT works for UK business.
+Please check if you to need adjust SETTINGS in details, especially regarding invoice layouts, taxes or territories.
+We will update this article once we learn more about the Brexit´s implications for our clients' activities.
+source: https://details.zendesk.com/hc/en-us/articles/360016728097-How-will-Brexit-affect-det%C9%99ils-clients-
+article id = 360016728097

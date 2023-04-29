@@ -1,0 +1,13 @@
+FIRST STEPS
+If you are new to details, watch our tutorial to CONTACT MANAGEMENT here.
+You can watch a tutorial on how to manage groups HERE
+Another useful tutorial to watch is how to MERGE contacts.
+One of the first things you might want to do with details is to import your contacts - unless you want to enter your contacts from scratch.
+The benefit of importing is obviously that you don't have to type them in by hand. However you will import all the mess you have in your contact tables and address-books into details.
+The benefit of starting from scratch therefore would be that you have all clean and fresh data. This might however turn out to be an illusion since typing all information for contacts is so much work that many clients end up importing anyway ... just because nobody has enough time to enter clean data ... the choice is yours either way!
+If you choose to import contact information, there are different ways offered within details and others we can offer as service:
+Import Contacts from CSV file
+Import contacts from vCard
+Use details sample Excel Sheet to import contacts
+source: https://details.zendesk.com/hc/en-us/articles/360003568057-Contacts-First-Steps
+article id = 360003568057

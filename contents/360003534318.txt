@@ -1,0 +1,13 @@
+detəils is a user-based Pplattform-as-a-Service. To manage your user logins go to Settings - User Settings. It allows you to set User Restrictions and you may ADD or EDIT user logins at all times. Note: You need to have administrator rights to access this tab.
+IMPORTANT NOTE:
+Remember that in general each user login will be billed at our standard monthly rate for user logins as per 6.9 of our terms of agreement net of taxes on the 1st day of the next month!  Adding or keeping user logins confirms your agreement to our Terms of Service located here.Please check our website for our current pricing.Starting 01 2021, we offer a discounted billing for "booking-only" users to help booking agencies during and after the Corona Crisis.
+To ADD a new user login click on the Plus icon.
+You can also REMOVE users by clicking the red X icon on the right of the list of users.
+V1
+V2
+For each user login, you should enter the following infos:
+V1
+V2
+NOTE: Users can be removed during the first 2 weeks of each month only.  After that we consider more than half a month worth of service a reason for billing. If you need to have a user login removed after the 14th day of the month, please send us a message to contact@detailsdetails.eu
+source: https://details.zendesk.com/hc/en-us/articles/360003534318-Settings-User-Settings
+article id = 360003534318

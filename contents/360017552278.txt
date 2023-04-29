@@ -1,0 +1,12 @@
+As booking agencies were the most affected by the Corona pandemic, we decided to reduce the user fees for booking-only users. Additionally, we did not charge for regular support to booking-only* clients in 2021.
+A 'booking-only' user is allowed to access the following modules:
+Contacts,
+Booking,
+Accounting and
+Settings
+In other words, the standard access to the modules  Analytics, Distribution, Label, Management  and Promotion needs to be deactivated ("hide module"):
+V1
+V2
+Clients administrators are asked to manage the module access of their users themselves under Settings > Users.
+source: https://details.zendesk.com/hc/en-us/articles/360017552278--Booking-only-Users
+article id = 360017552278

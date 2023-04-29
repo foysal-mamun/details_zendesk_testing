@@ -1,0 +1,7 @@
+It is rare, but does happen from time to time, that standard VAT rates change in any given country.
+For example, the standard VAT rates in the UK increased to 20% in 2011 (from 17.5%).
+Another example is the temporary reduction of VAT rates in Germany in H2 2020 as part of the Corona Crisis Relief Plan. As of January 1st, 2021, however, German VAT rates return to the previous rates of 19% (7% for the reduced rate). For the proper application of VAT rates, you must refer to the date of performance (“Leistungsdatum”) and not the date of the invoice ("Rechnungsdatum").
+In one of these rare cases you will need to modify the default settings in your invoice layouts in detəils accordingly, where VAT Rate 1 (full rate) and VAT Rate 2 (reduced rate) are easily modified.
+For more information, find here how to edit your Invoice Layouts.
+source: https://details.zendesk.com/hc/en-us/articles/360016823538-How-to-modify-default-VAT-settings-in-Invoice-Layouts
+article id = 360016823538

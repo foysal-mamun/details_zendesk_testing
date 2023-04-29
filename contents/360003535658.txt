@@ -1,0 +1,3 @@
+Details BOOKING module is all about managing your artistÂ´s bookings and events easily.There are two ways to create new bookings:1) Accept and edit an incoming booking request in BOOKING / REQUESTS2) Create yourself a new booking by clicking the green PLUS icon on any day in the CALENDAROur booking WIZARD will guide you through both processes and help to keep your database clean at the same time.The following subtabs are available for every booking in the calendar:* Overview* Money Details* Documents (Contracts & Itineraries)* Event Details* Travel Details* Local Details - How to upload files in a booking and make them available in the artist ARTIST APP* Map
+source: https://details.zendesk.com/hc/en-us/articles/360003535658-Bookings
+article id = 360003535658

@@ -1,0 +1,3 @@
+As a booking agent you may want to have a few of your artists´s apps on your mobile phone as well. Currently there is no app for multiple artists, but we are working on it.Instead what a lot of clients do, is create a FOLDER of Artist Apps on their phone.
+source: https://details.zendesk.com/hc/en-us/articles/360003535558-Artist-Apps-for-Booking-Agents
+article id = 360003535558

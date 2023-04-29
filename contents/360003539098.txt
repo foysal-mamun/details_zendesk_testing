@@ -1,0 +1,3 @@
+The Distribution Account's subtab All Orders is only relevant for physical DISTRIBUTION ACCOUNTS.Here you find all the distribution account's past and current/open orders listed on the Orders box.You can also SET UP A NEW ORDER from here.There is also a list of all BACKORDER from the account.The list of backorders can be exported to an excel file by clicking the EXPORT button right below the Backorders box.
+source: https://details.zendesk.com/hc/en-us/articles/360003539098-Distribution-Account-All-Orders
+article id = 360003539098

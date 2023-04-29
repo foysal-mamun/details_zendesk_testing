@@ -1,0 +1,7 @@
+If you want to set your Gmail account as your default Email sender, please, follow these instructions. We assume that you use Firefox to prevent untested bugs in the system, so here is how to do it through Firefox:
+1. Go to Firefox - Preferences
+2. Go to Applications
+3. Look for: mailto
+4. Choose Google Notifier to use Details and Gmail (you can also use this process to relate Details with any other Email system - ex: Outlook). If you don't have google notifier in your computer already, please download it from the Internet. As Google doesn't support Google Notifier anymore, you might need to download if from old websites. We highly recommend the use of Firefox to prevent bugs. If you still don't want to use this browser, you could follow these instructions for other browser by clicking here
+source: https://details.zendesk.com/hc/en-us/articles/360003534598-How-to-set-your-Gmail-account-as-you-default-Email-sender
+article id = 360003534598

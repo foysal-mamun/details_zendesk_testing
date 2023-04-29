@@ -1,0 +1,4 @@
+To analyse your repertoire and sales, details offers extensive sales and stock reporting on Distribution / Reports.On the first subtab Reports all available sales reports can be filtered & exported to excel.Available reports are:- Stock Report- Label Report- Release Exports- Product Exports- Open Order Report- Summarized Reports- Raw sales reportsOn the subtab Release Report you can generate an easy and nice-looking profit & loss PDF report by release.
+If you wish to customize this onesheet release report, please get in touch.
+source: https://details.zendesk.com/hc/en-us/articles/360003537338-Distribution-Reports
+article id = 360003537338

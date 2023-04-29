@@ -1,0 +1,4 @@
+To create a new product format, go to Settings / Label. Here you can add, edit and remove all product formats you need.To add a new format, click on the green (+) icon top right of the format box. You can now enter format name, weight, vat type etc. and click ADD NEW FORMAT to confirm.
+Please make sure to select the correct CHANNEL (physical OR digital), this will determine the display of the Product Page!By clicking on the BOLD format title in the list, you can EDIT an existing format.To DELETE a format you need to click a red x icon in the list.Product formats can now be set on PRODUCTS / OVERVIEW.
+source: https://details.zendesk.com/hc/en-us/articles/360018900838-How-To-Add-New-Product-Format-i-e-CD-Digital-Album
+article id = 360018900838

@@ -1,0 +1,8 @@
+There are several ways to include your contacts in Details, the most popular being
+Import contacts from a XLSX file
+Import contacts from a VCard or GroupVCard (for mac users)
+Batch import of your contact database directly into details database
+Add your contacts manually
+You can find instructions for the individual processes in the linked articles.
+source: https://details.zendesk.com/hc/en-us/articles/9748279563421-Adding-contacts-to-details
+article id = 9748279563421

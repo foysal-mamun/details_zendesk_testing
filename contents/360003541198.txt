@@ -1,0 +1,3 @@
+On Products / Metadata customized data fields for metadata related to the product can be added such as exclusives, pre-order dates, etc.If you need any customized data field for your digtal metadata exports, please get in touch with details support team.
+source: https://details.zendesk.com/hc/en-us/articles/360003541198-PRODUCT-Metadata
+article id = 360003541198

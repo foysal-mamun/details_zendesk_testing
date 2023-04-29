@@ -1,0 +1,3 @@
+On RELEASES / OVERVIEW you can - edit key release data like artist, title, release date and label- choose a type like compilation, album or merchandising, promo etc- add all related artists, contacts and genres of the release by clicking the green PLUS on top right of the relevant box- add all release related contracts you have previously set up in the relevant ROYALTY ACCOUNTSTo add an existing contract, click the green PLUS on top right of the contract box.Choose the royalty account and the corresponding contract.Enter the RELEASE SHARE and tick COST SPLIT if a cost split is part of your contract.
+source: https://details.zendesk.com/hc/en-us/articles/360003573297-RELEASES-Overview
+article id = 360003573297

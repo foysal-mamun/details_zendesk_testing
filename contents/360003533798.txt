@@ -1,0 +1,5 @@
+If you want to customize the fields you want for the Booking Request Form or the Questionnaire, please follow these guidelines:You just need to go to: Settings - Booking Settings - Request Settings
+Then you can pick which fields you want in both of them, and which of them should be 'mandatory' for the promoter.
+If you want to create a personal custom field, you can just add it on the proper section clicking on the 'Plus' button.
+source: https://details.zendesk.com/hc/en-us/articles/360003533798-How-to-customize-the-fields-for-the-Booking-Request-Form-Questionnaire
+article id = 360003533798

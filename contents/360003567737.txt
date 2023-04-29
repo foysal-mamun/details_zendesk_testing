@@ -1,0 +1,4 @@
+This Help Center is trying to grow into a full-featured online manual to details.Since details itself is constantly changing, the Help Center is also constantly evolving.We are adding new articles as we go.If you need clarification on specific issues, please contact us!If you have suggestions on how we should improve our service and application, please let us know HERE!Here are a few basics for getting started with details:
+How to create a new databaseTo benefit from details, first you need to login with a USER name and passwordUseful Information about how we work as a company, what we bill and what our priorities are can be found HERE.I can´t log into details! a Checklist ...FIREFOX Printer SettingsHow to create users & priceProblems to Log In to your Details accountHow to set your Gmail account as you default Email sender
+source: https://details.zendesk.com/hc/en-us/articles/360003567737-First-Steps
+article id = 360003567737

@@ -1,0 +1,12 @@
+How to start with details - manual
+read here previous step - how to import contacts from xlsx file
+detəils comes with three default Invoice layouts also called Invoice Projects:
+Official company invoice project
+Internal invoice project (mainly for your sales imports that are usually self-billing and you don't need an additional invoice)
+Royalty invoice project with royalty statement layout and related royalty credit notes if applicable.
+The invoice projects for companies are most relevant for your invoice layouts and automatic numbering.
+All invoice projects are customizable in Settings / Identities. You can add more invoice projects and change layout, leading texts, tax settings, etc for existing ones.
+Default Company Setup
+read next step here - how to add Distribution Accounts
+source: https://details.zendesk.com/hc/en-us/articles/4412727763857-Invoice-Layouts
+article id = 4412727763857
